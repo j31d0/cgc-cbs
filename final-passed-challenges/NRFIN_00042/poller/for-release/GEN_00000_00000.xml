@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+<cbid>service</cbid>
+<replay>
+    <write><data>new num KusYTkUkIOaDEE \x2d1088434627\x0a</data></write>
+    <write><data>new num TKVUlGyzIaTkaAMc 1536185334\x0a</data></write>
+    <write><data>new arr HHglMVwIJRUp 61\x0anew view NGXFLGLmaLisWxpH HHglMVwIJRUp int\x0a</data></write>
+    <write><data>set HHglMVwIJRUp 7 966254986\x0a</data></write>
+    <write><data>get HHglMVwIJRUp 21\x0a</data></write>
+    <write><data>\x00</data></write>
+    <read><delim>\x0a</delim><match><data>0</data></match></read>
+    <read><delim>\x0a</delim><match><data>Done.</data></match></read>
+</replay>
+</pov>

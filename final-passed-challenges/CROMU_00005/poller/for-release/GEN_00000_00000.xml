@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+<cbid>service</cbid>
+<replay>
+    <read><delim>WHITE: </delim><match><pcre>^\x00?([.abcdefghijkl]{8}\n){8}</pcre></match></read>
+    <write><data>6\x2c0 5\x2c2</data></write>
+    <read><delim>BLACK: </delim><match><pcre>OK\nBLACK: </pcre></match></read>
+    <write><data>2\x2c6 2\x2c5</data></write>
+    <read><delim>WHITE: </delim><match><pcre>OK\nWHITE: </pcre></match></read>
+    <write><data>6\x2c1 6\x2c2</data></write>
+    <read><delim>BLACK: </delim><match><pcre>OK\nBLACK: </pcre></match></read>
+    <write><data>6\x2c7 7\x2c5</data></write>
+    <read><delim>WHITE: </delim><match><pcre>OK\nWHITE: </pcre></match></read>
+    <write><data>1\x2c0 19\x2c18</data></write>
+    <read><length>47</length><match><data>incorrect input\x0aNot a legal move format\x0aWHITE: </data></match></read>
+    <write><data>1\x2c1 1\x2c2</data></write>
+    <read><delim>BLACK: </delim><match><pcre>OK\nBLACK: </pcre></match></read>
+    <write><data>3\x2c6 3\x2c5</data></write>
+    <read><delim>WHITE: </delim><match><pcre>OK\nWHITE: </pcre></match></read>
+    <write><data>5\x2c2 6\x2c4</data></write>
+    <read><delim>BLACK: </delim><match><pcre>OK\nBLACK: </pcre></match></read>
+    <write><data>2\x2c5 2\x2c4</data></write>
+    <read><delim>WHITE: </delim><match><pcre>OK\nWHITE: </pcre></match></read>
+    <write><data>2\x2c1 2\x2c2</data></write>
+    <read><delim>BLACK: </delim><match><pcre>OK\nBLACK: </pcre></match></read>
+    <write><data>666</data></write>
+    <read><length>9</length><match><data>good game</data></match></read>
+</replay>
+</pov>

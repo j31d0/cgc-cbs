@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+<cbid>service</cbid>
+<replay>
+    <read><delim>\x0a</delim><match><data>Welcome to Tick\x2dA\x2dTack.\x0a</data></match></read>
+    <read><delim>\x0a</delim><match><data>Make your selection:\x0a</data></match></read>
+    <read><delim>\x0a</delim><match><data>PLAY\x0a</data></match></read>
+    <read><delim>\x0a</delim><match><data>QUIT\x0a</data></match></read>
+    <read><delim>\x24 </delim><match><data>\x24 </data></match></read>
+    <write><data>PLAY\x07</data></write>
+    <read><delim>\x0a</delim><match><data>P goes first. Do you want P or Q?\x0a</data></match></read>
+    <read><delim>\x24 </delim><match><data>\x24 </data></match></read>
+    <write><data>Q\x07</data></write>
+    <read><delim>!\x0a</delim><match><data>Game on!\x0a</data></match></read>
+    <read><delim>.\x0a</delim><match><data>Computer\x27s move: 0 1.\x0a</data></match></read>
+    <read><delim>\x0a</delim><match><data>It\x27s your move. Enter \x27row col\x27\x0a</data></match></read>
+    <read><delim>\x24 </delim><match><data>\x24 </data></match></read>
+    <write><data>1 1\x07</data></write>
+    <read><delim>.\x0a</delim><match><data>Computer\x27s move: 2 0.\x0a</data></match></read>
+    <read><delim>\x0a</delim><match><data>It\x27s your move. Enter \x27row col\x27\x0a</data></match></read>
+    <read><delim>\x24 </delim><match><data>\x24 </data></match></read>
+    <write><data>2 2\x07</data></write>
+    <read><delim>.\x0a</delim><match><data>Computer\x27s move: 0 0.\x0a</data></match></read>
+    <read><delim>\x0a</delim><match><data>It\x27s your move. Enter \x27row col\x27\x0a</data></match></read>
+    <read><delim>\x24 </delim><match><data>\x24 </data></match></read>
+    <write><data>2 1\x07</data></write>
+    <read><delim>.\x0a</delim><match><data>Computer\x27s move: 0 2.\x0a</data></match></read>
+    <read><delim>\x0a</delim><match><data>Nice effort. Maybe next time.\x0a</data></match></read>
+    <read><delim>.\x0a</delim><match><data>0 wins. 1 losses.\x0a</data></match></read>
+    <read><delim>\x0a</delim><match><data>Make your selection:\x0a</data></match></read>
+    <read><delim>\x0a</delim><match><data>PLAY AGAIN\x0a</data></match></read>
+    <read><delim>\x0a</delim><match><data>START OVER\x0a</data></match></read>
+    <read><delim>\x0a</delim><match><data>QUIT\x0a</data></match></read>
+    <read><delim>\x24 </delim><match><data>\x24 </data></match></read>
+    <write><data>QUIT\x07</data></write>
+    <read><delim>\x0a</delim><match><data>Give up?. Don\x27t be a stranger!\x0a</data></match></read>
+</replay>
+</pov>

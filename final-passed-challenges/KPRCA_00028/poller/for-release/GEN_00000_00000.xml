@@ -1,0 +1,144 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+<cbid>service</cbid>
+<replay>
+    <read><length>61</length><match><data>Welcome to the SLUR REPL. Type an expression to evaluate it.\x0a</data></match></read>
+    <read><length>2</length><match><data>\x3e </data></match></read>
+    <write><data>\x28 </data></write>
+    <write><data> \x28cons zfqscn\x28vvyavs zmajgr \x29 \x29 </data></write>
+    <write><data> \x28 equal  \x28 equal  \x28 equal  \x28car \x28ihmxwa \x29 \x29   \x28car \x28ihmxwa \x29 \x29  \x29   \x28 equal  \x28car \x28ihmxwa \x29 \x29   \x28car \x28ihmxwa \x29 \x29  \x29  \x29   \x28cons \x28odixhv zvpprr \x29\x28sclbpf ktmmui \x29 \x29  \x29 </data></write>
+    <write><data> \x28\x28lambda \x28 eqfhezyp uyfnglxl \x29  \x28car \x28ucgrbz kkfqlc \x29 \x29  \x29  \x28atom hrarpg \x29  \x28atom igcskc \x29  \x29 </data></write>
+    <write><data> \x28atom csaosg \x29 </data></write>
+    <write><data> \x28cons \x28wuupob \x29\x28zdvlvj \x29 \x29 </data></write>
+    <write><data> \x28cond  \x28  \x28atom ubvymx \x29   \x28cons belzih\x28mpvutv ztwjgc \x29 \x29  \x29  \x28  \x28cdr \x28\x28melmyr \x29gerepe rswehw jsmqvx \x29 \x29   \x28cdr \x28xknjxm gqcgqv \x29 \x29  \x29  \x28  \x28cdr \x28cljebz kevqhf \x29 \x29   \x28cond  \x28  \x28atom bfxsyj \x29   \x28car \x28laqnsi jgawoe \x29 \x29  \x29  \x28  \x28 equal  \x28car \x28uxicyf fxvvcq \x29 \x29   \x28car \x28uxicyf fxvvcq \x29 \x29  \x29   \x28atom vtkyss \x29  \x29  \x28  \x28cond  \x28  \x28cons \x28xhxfbd yyckvz byatdh \x29\x28\x28bpjvwu \x29luegzg hsmdey \x29 \x29   \x28cons ekwjipfgryqw \x29  \x29  \x28  \x28 equal  \x28 equal  \x28 equal  \x28car \x28nozcew ryflkc jwtgga \x29 \x29   \x28car \x28nozcew ryflkc jwtgga \x29 \x29  \x29   \x28car ipcrjz \x29  \x29   \x28 equal  \x28 equal  \x28car \x28nozcew ryflkc jwtgga \x29 \x29   \x28car \x28nozcew ryflkc jwtgga \x29 \x29  \x29   \x28car ipcrjz \x29  \x29  \x29   \x28atom ymxwji \x29  \x29  \x28  \x28cons \x28mnhpux herdit \x29\x28yioaid jkukce \x29 \x29   \x28atom gddhgt \x29  \x29  \x28  \x28car \x28jjbrud byxxjl \x29 \x29   \x28cdr \x28zvbiyq endtzy \x29 \x29  \x29  \x29   \x28atom \x28mdffzg \x29 \x29  \x29  \x28  \x28cdr \x28oinnks qhigyb cnmhoq \x29 \x29   \x28quote \x28tdevqg fkrfoy \x29 \x29  \x29  \x29  \x29  \x28  \x28quote \x28zylbew ggfyik \x29 \x29   \x28cond  \x28  \x28cdr \x28qcnngc \x28orjcya ipyact bxpcoh \x29hgismx \x29 \x29   \x28cdr \x28zymyoe \x29 \x29  \x29  \x28  \x28quote tatgnr \x29   \x28cons \x28bavkau \x29\x28egylzn gpeqfv cptatl \x29 \x29  \x29  \x28  \x28quote \x28\x28aqchgu bhcmro \x29hgidzl ousjtl agekch \x29 \x29   \x28car \x28ewlemp \x29 \x29  \x29  \x28  \x28cons \x28mrfynv \x29\x28gxrtas \x29 \x29   \x28cons fmxwxh\x28qyxuqq vbcuub lhedzx \x29 \x29  \x29  \x29  \x29  \x29 </data></write>
+    <write><data> \x28cons owkgeo\x28guactz \x29 \x29 </data></write>
+    <write><data> \x28quote nvgoaq \x29 </data></write>
+    <write><data> \x28cons \x28pwbyfr \x29\x28utukax \x29 \x29 </data></write>
+    <write><data> \x28cdr \x28yatxxp \x29 \x29 </data></write>
+    <write><data> \x28cond  \x28  \x28car \x28kaepdg \x29 \x29   \x28cdr huppfm \x29  \x29  \x28  \x28cdr \x28stnufe eewfzu mhrlni \x29 \x29  \x28equal  \x28cons \x28vdfmjs gqbpjv \x29\x28hgwpov foblwt \x29 \x29  \x28cons \x28vdfmjs gqbpjv \x29\x28hgwpov foblwt \x29 \x29  \x29  \x29  \x28  \x28quote zyfxjf \x29   \x28cdr \x28mgvpje pmtlzk ejtdpk \x29 \x29  \x29  \x28  \x28atom cvqvry \x29   \x28quote avwyxk \x29  \x29  \x29 </data></write>
+    <write><data> \x28atom ocpxzs \x29 </data></write>
+    <write><data> \x28car \x28qyiclb \x29 \x29 </data></write>
+    <write><data> \x28cdr llwisk \x29 </data></write>
+    <write><data> \x28 equal  \x28 equal  \x28quote \x28cnohwa sspjco dfhzki \x29 \x29   \x28cons \x28kjlali \x29\x28negjfp kpryix vofsyh \x29 \x29  \x29   \x28 equal  \x28quote \x28cnohwa sspjco dfhzki \x29 \x29   \x28cons \x28kjlali \x29\x28negjfp kpryix vofsyh \x29 \x29  \x29  \x29 </data></write>
+    <write><data> \x28 equal  \x28cdr \x28vajqtc ndeqgt qcunuq \x29 \x29   \x28cdr uhrtfw \x29  \x29 </data></write>
+    <write><data> \x28car \x28tpvato wqhvhf \x29 \x29 </data></write>
+    <write><data> \x28cons fmimls\x28yuuasm zgfkwk \x29 \x29 </data></write>
+    <write><data> \x28cdr \x28zrwcsx cmdvut \x29 \x29 </data></write>
+    <write><data> \x28cond  \x28  \x28cdr \x28atlhcx gjkujz \x29 \x29   \x28cond  \x28  \x28car \x28ylodah \x29 \x29   \x28cons \x28vcjvvu \x29\x28iudqry texfkv elvlnd \x29 \x29  \x29  \x28  \x28cdr \x28xolscp \x29 \x29   \x28car \x28nzqysk tvkbgc cxwnyx \x29 \x29  \x29  \x28  \x28cons \x28omrxrk \x29\x28xelnqj fsheey vosgmo \x29 \x29   \x28atom qnnxvu \x29  \x29  \x28  \x28atom tnxcgi \x29   \x28quote cciupf \x29  \x29  \x29  \x29  \x28  \x28quote xremcv \x29   \x28quote uyfivo \x29  \x29  \x28  \x28car \x28dtorqd \x29 \x29   \x28car \x28ujqmxs zzxalz lsomqr \x29 \x29  \x29  \x28  \x28 equal  \x28cdr \x28splzos hblyyz mkqntd \x29 \x29   \x28cons \x28cetlvh tanwhl qzmejg \x29\x28svlyml \x29 \x29  \x29   \x28atom \x28aiwbil lntgby \x29 \x29  \x29  \x29 </data></write>
+    <write><data> \x28cond  \x28  \x28cons xslaay\x28drahii \x29 \x29   \x28quote eeppvz \x29  \x29  \x28  \x28car \x28hlpind \x29 \x29   \x28atom \x28bcgysl \x29 \x29  \x29  \x28  \x28cdr \x28opqvtl \x29 \x29   \x28car \x28ifptrw \x29 \x29  \x29  \x28  \x28cdr \x28celdvu mqhbyg \x29 \x29   \x28atom wpuwge \x29  \x29  \x29 </data></write>
+    <write><data> \x28atom bfyinl \x29 </data></write>
+    <write><data> \x28\x28lambda \x28 ufxuhsji btdanfia ecapeunm ionuorwi haqntbah hkjofnmb gxdgnotl dgspdhhs qgmrnvoh yegicjbi yhoatanh \x29  \x28cons aerlki\x28nvsfns ztwjhi \x29 \x29  \x29  \x28atom \x28ypbiic bzxqzs zvrfjc \x29 \x29  \x28atom \x28hngsts volccm \x29 \x29  \x28atom acutvs \x29  \x28atom \x28xbffkx mzdomu \x29 \x29  \x28atom xfvsbc \x29  \x28atom ehkamo \x29  \x28atom \x28\x28mckuja gegpjj \x29gdcghw nezqdw \x29 \x29  \x28atom dplpds \x29  \x28atom \x28sfnrmc idanka kjoyvs \x29 \x29  \x28atom prlbzm \x29  \x28atom \x28jkcfef \x29 \x29  \x29 </data></write>
+    <write><data> \x28atom tnuwdy \x29 </data></write>
+    <write><data> \x28 equal  \x28atom iyazln \x29   \x28atom iyazln \x29  \x29 </data></write>
+    <write><data> \x28cond  \x28  \x28car \x28nbfkar \x29 \x29   \x28cons \x28osvkme xujsqz \x28uxrojp mijjqu ssbybu \x29ffjulv \x29\x28pysmxm fjpqru tqfjri \x29 \x29  \x29  \x28  \x28 equal  \x28atom ohojba \x29   \x28atom ohojba \x29  \x29   \x28car \x28dwxlvi dlkiib \x29 \x29  \x29  \x28  \x28 equal  \x28 equal  \x28 equal  \x28quote yktzqo \x29   \x28quote yktzqo \x29  \x29   \x28quote \x28qrcqno ztyezk eooast \x29 \x29  \x29   \x28car \x28vbqjce \x29 \x29  \x29   \x28quote tugpov \x29  \x29  \x28  \x28quote \x28mxroii krqslb anyxvt \x29 \x29   \x28atom eowreb \x29  \x29  \x29 </data></write>
+    <write><data> \x28atom igbpro \x29 </data></write>
+    <write><data> \x28\x28lambda \x28 ihqtflms eagjuija jazypyxf yccpaxfw ntqgoqwh twoavfzz tvengcoc tnjlsbrz uxcdyeza \x29  \x28cons \x28gktbue foppta \x29inladj \x29  \x29  \x28atom tappjj \x29  \x28atom pyrdmr \x29  \x28atom \x28arhyvn wrfezb \x29 \x29  \x28atom \x28azdrah ufnata \x29 \x29  \x28atom \x28hitvzk \x29 \x29  \x28atom \x28dhxhsc dyktut \x29 \x29  \x28atom hgpnzs \x29  \x28atom qlhnhz \x29  \x28atom nmavwn \x29  \x29 </data></write>
+    <write><data> \x28quote ohvtea \x29 </data></write>
+    <write><data> \x28atom dlncrn \x29 </data></write>
+    <write><data> \x28cdr \x28qvuhwn \x29 \x29 </data></write>
+    <write><data> \x28cdr \x28gtrzad kofmpt wlrsgi \x29 \x29 </data></write>
+    <write><data> \x28cdr \x28ogcayk \x28xjstzx nkkakj zafzrq \x29nfucha \x29 \x29 </data></write>
+    <write><data> \x28atom \x28xzqyss \x29 \x29 </data></write>
+    <write><data> \x28\x28lambda \x28 rqmasbll shwlgloo znqovjyw qvtwdnxb jvjbjkjc hskybupg qarfmjwh \x29  \x28quote wbshrx \x29  \x29  \x28atom wbmyuw \x29  \x28atom czxsrw \x29  \x28atom ejghee \x29  \x28atom evexjn \x29  \x28atom \x28fnlqzc pvcvim \x29 \x29  \x28atom xzwklr \x29  \x28atom nnajon \x29  \x29 </data></write>
+    <write><data> \x28cons pbxrzy\x28vavurw \x29 \x29 </data></write>
+    <write><data> \x28atom cabhkf \x29 </data></write>
+    <write><data> \x28cond  \x28  \x28cdr \x28ogoqmg \x29 \x29   \x28 equal  \x28cdr \x28tpyrpk bhmgcn stbsbk \x29 \x29   \x28cdr \x28tpyrpk bhmgcn stbsbk \x29 \x29  \x29  \x29  \x28  \x28 equal  \x28cons zniqow\x28obpwbb rqtkev gkkndh \x29 \x29   \x28cons zniqow\x28obpwbb rqtkev gkkndh \x29 \x29  \x29   \x28car \x28oxasyw \x29 \x29  \x29  \x28  \x28cons \x28upurrm \x28zqsmcw \x29kipqjx pqbaob \x29\x28utlfto \x29 \x29   \x28cons \x28mwzilw \x29\x28qfbyec \x29 \x29  \x29  \x28  \x28car \x28umtpse lwzrtk vhxkff \x29 \x29   \x28atom fgddmp \x29  \x29  \x29 </data></write>
+    <write><data> \x28cdr \x28xldgxt jdjrqm \x29 \x29 </data></write>
+    <write><data> \x28 equal  \x28 equal  \x28car gjybju \x29   \x28car gjybju \x29  \x29   \x28 equal  \x28car gjybju \x29   \x28car gjybju \x29  \x29  \x29 </data></write>
+    <write><data> \x28quote cmvwld \x29 </data></write>
+    <write><data> \x28car \x28edgwlf \x29 \x29 </data></write>
+    <write><data> \x28\x28lambda \x28 gojirddr bviljkpl fqiwodrh uimctxrr qwckrxic gxsjillm lwghwcdi cqzdhzsc \x29  \x28atom mielxs \x29  \x29  \x28atom kkgdrd \x29  \x28atom dmyodu \x29  \x28atom ngvnhr \x29  \x28atom ljygqg \x29  \x28atom mryqex \x29  \x28atom niauaw \x29  \x28atom \x28buajnj jvsckh \x29 \x29  \x28atom zhehpo \x29  \x29 </data></write>
+    <write><data> \x28\x28lambda \x28 cjbzrczf qaunrymo \x29  \x28quote \x28ufmsfo \x29 \x29  \x29  \x28atom kixxbs \x29  \x28atom agkwee \x29  \x29 </data></write>
+    <write><data> \x28car \x28fufeok hkxjbc pprznr \x29 \x29 </data></write>
+    <write><data> \x28atom sphaaq \x29 </data></write>
+    <write><data> \x28car \x28aqegky jbzyhr \x29 \x29 </data></write>
+    <write><data> \x28 equal  \x28atom fqyckn \x29   \x28atom fqyckn \x29  \x29 </data></write>
+    <write><data> \x28cons \x28xgvjem \x28ddsptj \x29xtntkh \x29\x28qlqetj iltnjr dikiwx \x29 \x29 </data></write>
+    <write><data> \x28atom ghbypx \x29 </data></write>
+    <write><data> \x28 equal  \x28quote \x28rdmxrt ljmdqd \x29 \x29   \x28quote \x28rdmxrt ljmdqd \x29 \x29  \x29 </data></write>
+    <write><data> \x28car \x28mhkbeg \x29 \x29 </data></write>
+    <write><data> \x28cond  \x28  \x28car \x28cbdsdl yznrem vbyjln \x29 \x29   \x28cons faazfj\x28kavqrh \x28dxbgup \x29zakqpv imfrux \x29 \x29  \x29  \x28  \x28cons udkgjq\x28toywqo mekmtf \x29 \x29   \x28 equal  \x28atom qmnbom \x29   \x28atom \x28euciho rgncsu lpydkz \x29 \x29  \x29  \x29  \x28  \x28car \x28xasrag xjwndr \x29 \x29   \x28quote pizvrb \x29  \x29  \x28  \x28cons vttchj\x28mmpohq \x29 \x29   \x28atom ebfpiw \x29  \x29  \x29 </data></write>
+    <write><data> \x28cons \x28qehzpm euscoa uvryih \x29\x28ejohbv ofkcyf \x29 \x29 </data></write>
+    <write><data> \x28atom kmdkoi \x29 </data></write>
+    <write><data> \x28quote \x28ovzfeu zjlpnm gzttyo \x29 \x29 </data></write>
+    <write><data> \x28\x28lambda \x28 tjmggtzf psioivfx atngnshi iyuhcqeb kueyfvbm tamobgrz lkfvsbye qicidakm ufdjihag \x29  \x28cons \x28fdjlvi mjysnk \x29\x28skpvkn twbkoa \x29 \x29  \x29  \x28atom jbzbgd \x29  \x28atom yvarks \x29  \x28atom nhbnwp \x29  \x28atom \x28kabipn ltrjgy vszclm \x29 \x29  \x28atom fqxdne \x29  \x28atom amcisg \x29  \x28atom hzsmgd \x29  \x28atom iyktfa \x29  \x28atom rbftxd \x29  \x29 </data></write>
+    <write><data> \x28quote qsijfv \x29 </data></write>
+    <write><data> \x28cdr kkcbqo \x29 </data></write>
+    <write><data> \x28cdr \x28cgmuli wgnuzk \x29 \x29 </data></write>
+    <write><data> \x28cons \x28knsoks jtxqgv imppnc \x29\x28sgskal pstcgs \x29 \x29 </data></write>
+    <write><data> \x28atom ripzzy \x29 </data></write>
+    <write><data> \x28cons eqbawscmrzcc \x29 </data></write>
+    <write><data> \x28cdr \x28dqnncd \x29 \x29 </data></write>
+    <write><data> \x28atom tndgyh \x29 </data></write>
+    <write><data> \x28\x28lambda \x28 flweptkf uyqktumg uxlhfpgq pffrcfhp fdljgoxw qfjvdqod hbhotmbu gtqcphhp voizplhp tzqgvjmu bjujuvld mjkqbpql \x29  \x28quote ieyqxj \x29  \x29  \x28atom \x28yfmpne zjsiro fgehjn \x29 \x29  \x28atom rgshnm \x29  \x28atom \x28rhfyha ayhkca ssafnb \x29 \x29  \x28atom nmovfe \x29  \x28atom \x28gmimao exnwbg fdvzkh \x29 \x29  \x28atom \x28fhbiue ttivpc vthjku \x29 \x29  \x28atom ypgssz \x29  \x28atom vozbbe \x29  \x28atom szyrsj \x29  \x28atom \x28zocitt \x29 \x29  \x28atom \x28wuovkd \x29 \x29  \x28atom \x28sfldte eckcux jeeeoe \x29 \x29  \x29 </data></write>
+    <write><data> \x28atom vxkrmc \x29 </data></write>
+    <write><data> \x28cdr \x28ektuki utwpfm \x29 \x29 </data></write>
+    <write><data> \x28 equal  \x28cdr \x28ihwejr bljabi \x29 \x29   \x28atom upulcj \x29  \x29 </data></write>
+    <write><data> \x28quote tupvrh \x29 </data></write>
+    <write><data> \x28 equal  \x28 equal  \x28 equal  \x28car \x28uhpqhs pfjkmz \x29 \x29   \x28atom hcvime \x29  \x29   \x28atom uvpjek \x29  \x29   \x28cdr \x28uopptk iprjha \x29 \x29  \x29 </data></write>
+    <write><data> \x28quote \x28\x28dpaufr goecsv \x29bpjoaq \x29 \x29 </data></write>
+    <write><data> \x28cond  \x28  \x28cdr \x28\x28hnqwym cplmot eybaio \x29krzcxd ixndhw ljdohh \x29 \x29   \x28cdr \x28syqoiq \x29 \x29  \x29  \x28  \x28cdr \x28puawak xuzmmw aerzmt \x29 \x29   \x28 equal  \x28quote gpsqhv \x29   \x28quote gpsqhv \x29  \x29  \x29  \x28  \x28cdr \x28aeercy pnzhnr \x29 \x29   \x28cons gnextc\x28wiqsnj \x29 \x29  \x29  \x28  \x28cons \x28vrpscp tbkpwg hybsvh \x29\x28qrotgu ykkufd \x29 \x29   \x28car \x28zwdbxx \x29 \x29  \x29  \x29 </data></write>
+    <write><data> \x28\x28lambda \x28 fndufirb qyyplawy lkcwrgrm \x29  \x28atom jdwipk \x29  \x29  \x28atom yzusdw \x29  \x28atom gxuecr \x29  \x28atom klibfv \x29  \x29 </data></write>
+    <write><data> \x28quote \x28dioltt \x28cizkio trodst \x29vrbeto ctyset \x29 \x29 </data></write>
+    <write><data> \x28car \x28yhowgz \x29 \x29 </data></write>
+    <write><data> \x28cons \x28kojhrl \x29\x28\x28fbgofz \x29rzqwsc rtlmbq anfuba \x29 \x29 </data></write>
+    <write><data> \x28quote \x28xubxei \x29 \x29 </data></write>
+    <write><data> \x28cons \x28egztpu \x29\x28fromiq \x29 \x29 </data></write>
+    <write><data> \x28atom nvugpw \x29 </data></write>
+    <write><data> \x28cons \x28dwgney \x29\x28gexbqr mhpszs gjrnhf \x29 \x29 </data></write>
+    <write><data> \x28quote qdhagp \x29 </data></write>
+    <write><data> \x28cond  \x28  \x28quote zjduad \x29   \x28atom \x28aqvagb \x29 \x29  \x29  \x28  \x28quote thdwkq \x29   \x28quote \x28hntrwm sqfspx lwvcfw \x29 \x29  \x29  \x28  \x28cdr \x28fqcgkj \x29 \x29   \x28cdr \x28nuwfbi icuuvl uqzmgu \x29 \x29  \x29  \x28  \x28car \x28jxnxtd soukpm \x29 \x29   \x28 equal  \x28cdr \x28nsbnvk amkgmh \x29 \x29   \x28cdr \x28nsbnvk amkgmh \x29 \x29  \x29  \x29  \x29 </data></write>
+    <write><data> \x28atom zrnjmz \x29 </data></write>
+    <write><data> \x28atom khrabz \x29 </data></write>
+    <write><data> \x28 equal  \x28atom \x28uhwboz jkoyfr ghhuvb \x29 \x29   \x28atom xumkwm \x29  \x29 </data></write>
+    <write><data> \x28atom \x28oxjyeo tkkoss wyiwxe \x29 \x29 </data></write>
+    <write><data> \x28cons \x28nehstj fepiwb tqzgio \x29\x28glhdqt \x29 \x29 </data></write>
+    <write><data> \x28quote \x28ucvopd wfmrko ddmypt \x29 \x29 </data></write>
+    <write><data> \x28cons dqipjw\x28eyufkx pbznbr \x29 \x29 </data></write>
+    <write><data> \x28cons \x28xmzbfl wqzsdu dbmlbk \x29\x28cpeini \x29 \x29 </data></write>
+    <write><data> \x28cdr \x28qabait \x29 \x29 </data></write>
+    <write><data> \x28cons cyinpu\x28gekybb \x28owoych jsqtao grrzjz \x29iqgfbt \x29 \x29 </data></write>
+    <write><data> \x28car \x28wssixx \x29 \x29 </data></write>
+    <write><data> \x28\x28lambda \x28  \x29  \x28atom jmqiep \x29  \x29  \x29 </data></write>
+    <write><data> \x28cons ukveta\x28azftcg consfy \x29 \x29 </data></write>
+    <write><data> \x28cdr \x28szrgod ohcpet avwngb \x29 \x29 </data></write>
+    <write><data> \x28 equal  \x28car \x28wwbaml igzhkc \x29 \x29   \x28car \x28wwbaml igzhkc \x29 \x29  \x29 </data></write>
+    <write><data> \x28 equal  \x28cond  \x28  \x28atom cwrkxy \x29   \x28cons olnhnz\x28rgsttq \x29 \x29  \x29  \x28  \x28quote \x28xgptgg xumevi lchsmt \x29 \x29   \x28 equal  \x28cons obaaca\x28vsvnwi \x29 \x29   \x28quote \x28cmasnp svqkke \x29 \x29  \x29  \x29  \x28  \x28cons \x28swgqau \x29\x28ehyyvu qfjbbb zvazge \x29 \x29   \x28quote jahsog \x29  \x29  \x28  \x28car \x28qozrbv hgkdxd \x29 \x29   \x28 equal  \x28 equal  \x28 equal  \x28atom nrpozj \x29   \x28 equal  \x28 equal  \x28cons \x28webhtp \x29\x28mcuues \x29 \x29   \x28cons \x28webhtp \x29\x28mcuues \x29 \x29  \x29   \x28 equal  \x28cons \x28webhtp \x29\x28mcuues \x29 \x29   \x28cons \x28webhtp \x29\x28mcuues \x29 \x29  \x29  \x29  \x29   \x28cond  \x28  \x28cdr \x28wxqvts akmlvg eowuog \x29 \x29   \x28car \x28fvjvzd tdjqaz \x29 \x29  \x29  \x28  \x28cons \x28ecitob \x28\x28xgkobq dedfqa \x29exdzcb \x28becctl \x28vskgkt \x29hmxqiu \x29mkpkaa \x29igsdun snayvs \x29\x28szxxom vpbxid \x29 \x29   \x28 equal  \x28car \x28exwhuk \x29 \x29   \x28quote kouzrs \x29  \x29  \x29  \x28  \x28quote pbgkgp \x29   \x28quote dldmvm \x29  \x29  \x28  \x28atom tbkcaj \x29   \x28cond  \x28  \x28cons \x28kuicqs \x29\x28\x28\x28zvzbrc lyttnm \x29yobulh \x29abnjkp \x29 \x29   \x28atom \x28ddhnxi \x29 \x29  \x29  \x28  \x28cdr \x28jhchxg \x29 \x29   \x28cdr \x28kakmjp hlgwjk \x29 \x29  \x29  \x28  \x28 equal  \x28car \x28wqnhci ijvivs \x29 \x29   \x28car \x28pyztzr fcalrg amprvx \x29 \x29  \x29   \x28cons \x28lvzmve tpvmdk ymbnjo \x29\x28keixkk djgrxh \x29 \x29  \x29  \x28  \x28cons \x28drlusa lyqfqg xbqajz \x29\x28makdag \x29 \x29   \x28quote najslj \x29  \x29  \x29  \x29  \x29  \x29   \x28 equal  \x28 equal  \x28atom nrpozj \x29   \x28 equal  \x28 equal  \x28cons \x28webhtp \x29\x28mcuues \x29 \x29   \x28cons \x28webhtp \x29\x28mcuues \x29 \x29  \x29   \x28 equal  \x28cons \x28webhtp \x29\x28mcuues \x29 \x29   \x28cons \x28webhtp \x29\x28mcuues \x29 \x29  \x29  \x29  \x29   \x28cond  \x28  \x28cdr \x28wxqvts akmlvg eowuog \x29 \x29   \x28car \x28fvjvzd tdjqaz \x29 \x29  \x29  \x28  \x28cons \x28ecitob \x28\x28xgkobq dedfqa \x29exdzcb \x28becctl \x28vskgkt \x29hmxqiu \x29mkpkaa \x29igsdun snayvs \x29\x28szxxom vpbxid \x29 \x29   \x28 equal  \x28car \x28exwhuk \x29 \x29   \x28quote kouzrs \x29  \x29  \x29  \x28  \x28quote pbgkgp \x29   \x28quote dldmvm \x29  \x29  \x28  \x28atom tbkcaj \x29   \x28cond  \x28  \x28cons \x28kuicqs \x29\x28\x28\x28zvzbrc lyttnm \x29yobulh \x29abnjkp \x29 \x29   \x28atom \x28ddhnxi \x29 \x29  \x29  \x28  \x28cdr \x28jhchxg \x29 \x29   \x28cdr \x28kakmjp hlgwjk \x29 \x29  \x29  \x28  \x28 equal  \x28car \x28wqnhci ijvivs \x29 \x29   \x28car \x28pyztzr fcalrg amprvx \x29 \x29  \x29   \x28cons \x28lvzmve tpvmdk ymbnjo \x29\x28keixkk djgrxh \x29 \x29  \x29  \x28  \x28cons \x28drlusa lyqfqg xbqajz \x29\x28makdag \x29 \x29   \x28quote najslj \x29  \x29  \x29  \x29  \x29  \x29  \x29  \x29  \x29   \x28cdr awwyfj \x29  \x29 </data></write>
+    <write><data> \x28\x28lambda \x28 vlcfmxmt lvfkptin ripydspm cmnsyazv fbqrskpl ascmhqiv bllpoock ecnnnpse \x29  \x28 equal  \x28quote ouualt \x29   \x28car \x28ldpzfl ymygak pwykdp \x29 \x29  \x29  \x29  \x28atom hmpmth \x29  \x28atom zxmuwc \x29  \x28atom \x28yiwwbe qpvwcq \x29 \x29  \x28atom \x28bsmrpa eflanb \x29 \x29  \x28atom \x28qymiws fbcclb sstwav \x29 \x29  \x28atom cizlfg \x29  \x28atom \x28xmmrwc swtlyt \x29 \x29  \x28atom kzznix \x29  \x29 </data></write>
+    <write><data> \x28cons mxpcnq\x28vnuwzs mclddn qosbyd \x29 \x29 </data></write>
+    <write><data> \x28cond  \x28  \x28 equal  \x28 equal  \x28cdr \x28jjwrwd \x29 \x29   \x28quote \x28lxxarp lwpmzq uhfjbu \x29 \x29  \x29   \x28cons \x28fipdgh shymqi dnhudh \x29\x28cgantz \x29 \x29  \x29   \x28car \x28vlzcum \x29 \x29  \x29  \x28  \x28cons meuxgt\x28jfhlav obqtww hbrdgx \x29 \x29   \x28cons \x28kqzrag gnftvq \x29\x28sdsxjy \x29 \x29  \x29  \x28  \x28cons \x28nbchmx wbewbv vecbay \x29\x28bvicen bqcicy idjuvy \x29 \x29   \x28 equal  \x28 equal  \x28 equal  \x28cons gvhooc\x28\x28lrwped \x29bvgszl oehavb \x29 \x29   \x28car \x28bimeob vxblxb \x29 \x29  \x29   \x28 equal  \x28cons gvhooc\x28\x28lrwped \x29bvgszl oehavb \x29 \x29   \x28car \x28bimeob vxblxb \x29 \x29  \x29  \x29   \x28quote ivnoeh \x29  \x29  \x29  \x28  \x28 equal  \x28 equal  \x28 equal  \x28car \x28snhswl eytial gtbsvq \x29 \x29   \x28car \x28snhswl eytial gtbsvq \x29 \x29  \x29   \x28 equal  \x28car \x28snhswl eytial gtbsvq \x29 \x29   \x28car \x28snhswl eytial gtbsvq \x29 \x29  \x29  \x29   \x28 equal  \x28 equal  \x28car \x28snhswl eytial gtbsvq \x29 \x29   \x28car \x28snhswl eytial gtbsvq \x29 \x29  \x29   \x28 equal  \x28car \x28snhswl eytial gtbsvq \x29 \x29   \x28car \x28snhswl eytial gtbsvq \x29 \x29  \x29  \x29  \x29   \x28 equal  \x28quote lwqabn \x29   \x28cons \x28flwrky ctcwmv wdsjam \x29\x28nzxsoa rqpjgc \x29 \x29  \x29  \x29  \x29 </data></write>
+    <write><data> \x28atom \x28iqqxkp \x29 \x29 </data></write>
+    <write><data> \x28 equal  \x28atom vykdif \x29   \x28 equal  \x28cdr \x28amgiiq \x29 \x29   \x28cdr \x28amgiiq \x29 \x29  \x29  \x29 </data></write>
+    <write><data> \x28quote ogrcbn \x29 </data></write>
+    <write><data> \x28 equal  \x28car \x28jdboxx \x29 \x29   \x28quote cycdbv \x29  \x29 </data></write>
+    <write><data> \x28 equal  \x28 equal  \x28quote \x28apdunm otgnpu \x29 \x29   \x28quote \x28apdunm otgnpu \x29 \x29  \x29   \x28 equal  \x28quote \x28apdunm otgnpu \x29 \x29   \x28quote \x28apdunm otgnpu \x29 \x29  \x29  \x29 </data></write>
+    <write><data> \x28 equal  \x28cons seigqz\x28sgctzn fpwste \x29 \x29   \x28cons seigqz\x28sgctzn fpwste \x29 \x29  \x29 </data></write>
+    <write><data> \x28cons \x28sfabej dqrphi \x28pzxmzf \x29htecph \x29\x28mpsnax \x29 \x29 </data></write>
+    <write><data> \x28\x28lambda \x28 nfihqhgl \x29  \x28cons \x28dmjruf ohbpsx \x29\x28xagvqh \x29 \x29  \x29  \x28atom nplpkw \x29  \x29 </data></write>
+    <write><data> \x28cdr \x28jtmoqj zugmfb xbocbk \x29 \x29 </data></write>
+    <write><data> \x28atom lusfwo \x29 </data></write>
+    <write><data> \x28car \x28\x28zxklkv bqhebt mtlpsi \x29bunflo jzyljj \x29 \x29 </data></write>
+    <write><data> \x28\x28lambda \x28 joopqfzk qbfzbgwt wwvkamqy wydhorlz skuqyjox oxgucumx sdgovnzu ltfwvhod arxtkujf ysuhzfol \x29  \x28quote nrdqmd \x29  \x29  \x28atom \x28xpuisx zkphtf \x29 \x29  \x28atom luokih \x29  \x28atom qhrbui \x29  \x28atom \x28lhauef mbxhoj pfcrug \x29 \x29  \x28atom amsblx \x29  \x28atom ghhgzf \x29  \x28atom gasmso \x29  \x28atom \x28imoucq ffxhst saruni \x29 \x29  \x28atom \x28kognct \x29 \x29  \x28atom zmziuk \x29  \x29 </data></write>
+    <write><data> \x28cdr \x28fzfmtv bqgucl \x29 \x29 </data></write>
+    <write><data> \x28quote xqqgia \x29 </data></write>
+    <write><data> \x28quote \x28yrhxct \x29 \x29 </data></write>
+    <write><data> \x28atom dxxjse \x29 </data></write>
+    <write><data> \x28cond  \x28  \x28car \x28yftwzx cqdgor pjkdjy \x29 \x29   \x28cons \x28zdcbfj qxtlnn \x29\x28rxrcps gqkgnb nrmdpk \x29 \x29  \x29  \x28  \x28atom hgetex \x29   \x28car \x28fcafcq elajyc kvbcqj \x29 \x29  \x29  \x28  \x28car \x28wjsxaa iqhudm \x29 \x29   \x28cdr \x28xuanmd wcgmcg mrtamr \x29 \x29  \x29  \x28  \x28cdr \x28nxfrdz lwlfhz xgvhdt \x29 \x29   \x28cons \x28jevrna lyypjr pjcgmf \x29\x28byzmrg alsbls \x29 \x29  \x29  \x29 </data></write>
+    <write><data> \x28car \x28ynxufs \x29 \x29 </data></write>
+    <write><data> \x28\x28lambda \x28 mifyuxbz rxgrapcm lzwwckjq wshageds dqlvslob wdgzospx sjlngbuo \x29  \x28cdr \x28rmizzw aqcywd \x29 \x29  \x29  \x28atom \x28mdchem \x29 \x29  \x28atom omivic \x29  \x28atom \x28amsdit utydux endylk \x29 \x29  \x28atom qsaeqk \x29  \x28atom \x28tiitsv \x29 \x29  \x28atom gysqdt \x29  \x28atom udtble \x29  \x29 </data></write>
+    <write><data> \x28cond  \x28  \x28car \x28qbkwit efwpay \x29 \x29   \x28atom \x28jxhwzf tnxvlk \x29 \x29  \x29  \x28  \x28cond  \x28  \x28 equal  \x28cons yzmsaf\x28kxdiwv \x29 \x29   \x28cdr \x28pvorcw misctf ryvxcs \x29 \x29  \x29   \x28atom cjthio \x29  \x29  \x28  \x28atom ghevnv \x29   \x28cons jxvaav\x28xugszw gqzxlk fuqguh \x29 \x29  \x29  \x28  \x28cdr \x28ibpuvi rfsecz \x29 \x29   \x28quote \x28kgwxoq msihrf gdkohe \x29 \x29  \x29  \x28  \x28 equal  \x28cdr \x28bhiysw cfvsyw knzxqd \x29 \x29   \x28cons dhhhqrbiqvfi \x29  \x29   \x28car \x28iuougl wohgrj \x29 \x29  \x29  \x29   \x28cons \x28jsmgvs \x29\x28paklch uagcbi wvcnrb \x29 \x29  \x29  \x28 \x28equal  \x28atom soyvzw \x29  \x28atom soyvzw \x29  \x29   \x28car \x28xbdbvy \x29 \x29  \x29  \x28  \x28cons uejaoh\x28sbdubh stfamw srusvl \x29 \x29   \x28 equal  \x28cdr \x28rimsny xdhdjt \x29 \x29   \x28quote gbiqqx \x29  \x29  \x29  \x29 </data></write>
+    <write><data> \x28\x28lambda \x28 pxhmbsqk \x29  \x28cdr \x28fuymxg \x29 \x29  \x29  \x28atom \x28dyobkr uruagf \x29 \x29  \x28atom xaspmx \x29  \x28atom brjldf \x29  \x29 </data></write>
+    <write><data> \x28quote spddjf \x29 </data></write>
+    <write><data> \x28 equal  \x28car \x28nqfoit \x29 \x29   \x28car \x28nqfoit \x29 \x29  \x29 </data></write>
+    <write><data> \x28cdr \x28gzwfiy \x29 \x29 </data></write>
+    <write><data> \x28car \x28mtwtbi \x28hnpsbz \x29ypflpr \x29 \x29 </data></write>
+    <write><data> \x28cond  \x28  \x28cdr \x28rglarf wemant lkhdgz \x29 \x29   \x28cdr \x28izakrp \x29 \x29  \x29  \x28  \x28quote jpyzln \x29   \x28quote \x28kptquu eajjzz \x29 \x29  \x29  \x28  \x28cdr \x28chklws \x29 \x29   \x28car \x28cnxqvn ymrbvf \x29 \x29  \x29  \x28  \x28cdr \x28wvpxpe bqkmbc \x29 \x29   \x28car \x28godltn \x29 \x29  \x29  \x29 </data></write>
+    <write><data> \x28car \x28whiqyh qubipf blaxwx \x29 \x29 </data></write>
+    <write><data> \x28atom drrfqg \x29 </data></write>
+    <write><data> \x28cond  \x28  \x28 equal  \x28car \x28ckbvca ewnsko \x29 \x29   \x28quote \x28mdxavq lpereh \x29 \x29  \x29   \x28cdr \x28hmqgzq elggyk \x29 \x29  \x29  \x28  \x28 equal  \x28car \x28pzbwqh ddtrvm \x29 \x29   \x28cdr \x28ypuepm \x28ustfpo ucjcgq \x29ibystc \x29 \x29  \x29   \x28car \x28ewoxvp ouqwfz \x29 \x29  \x29  \x28  \x28quote bkvdnq \x29   \x28cons \x28ekodnj \x29\x28ivnaqa whqdpg \x29 \x29  \x29  \x28  \x28cdr \x28hlbfvs \x29 \x29   \x28cons oybxim\x28vzvvzk jwzerp svqfso \x29 \x29  \x29  \x29 </data></write>
+    <write><data> \x28 equal  \x28cons \x28draapu \x29\x28yjyloj mdpfds hyvmww \x29 \x29   \x28cons \x28draapu \x29\x28yjyloj mdpfds hyvmww \x29 \x29  \x29 </data></write>
+    <write><data> \x29\x0a</data></write>
+    <read><length>1236</length><match><data>\x28\x28zfqscn vvyavs zmajgr\x29 ucgrbz t \x28\x28wuupob\x29 zdvlvj\x29 \x28belzih mpvutv ztwjgc\x29 \x28owkgeo guactz\x29 nvgoaq \x28\x28pwbyfr\x29 utukax\x29 avwyxk t qyiclb tpvato \x28fmimls yuuasm zgfkwk\x29 \x28cmdvut\x29 t \x28aerlki nvsfns ztwjhi\x29 t t dwxlvi t \x28\x28gktbue foppta\x29\x29 ohvtea t \x28kofmpt wlrsgi\x29 \x28\x28xjstzx nkkakj zafzrq\x29 nfucha\x29 \x28\x29 wbshrx \x28pbxrzy vavurw\x29 t \x28jdjrqm\x29 cmvwld edgwlf t \x28ufmsfo\x29 fufeok t aqegky t \x28\x28xgvjem \x28ddsptj\x29 xtntkh\x29 qlqetj iltnjr dikiwx\x29 t mhkbeg \x28\x28qehzpm euscoa uvryih\x29 ejohbv ofkcyf\x29 t \x28ovzfeu zjlpnm gzttyo\x29 \x28\x28fdjlvi mjysnk\x29 skpvkn twbkoa\x29 qsijfv \x28wgnuzk\x29 \x28\x28knsoks jtxqgv imppnc\x29 sgskal pstcgs\x29 t t ieyqxj t \x28utwpfm\x29 tupvrh \x28\x28dpaufr goecsv\x29 bpjoaq\x29 t \x28dioltt \x28cizkio trodst\x29 vrbeto ctyset\x29 yhowgz \x28\x28kojhrl\x29 \x28fbgofz\x29 rzqwsc rtlmbq anfuba\x29 \x28xubxei\x29 \x28\x28egztpu\x29 fromiq\x29 t \x28\x28dwgney\x29 gexbqr mhpszs gjrnhf\x29 qdhagp t t \x28\x29 \x28\x28nehstj fepiwb tqzgio\x29 glhdqt\x29 \x28ucvopd wfmrko ddmypt\x29 \x28dqipjw eyufkx pbznbr\x29 \x28\x28xmzbfl wqzsdu dbmlbk\x29 cpeini\x29 \x28cyinpu gekybb \x28owoych jsqtao grrzjz\x29 iqgfbt\x29 wssixx \x28ukveta azftcg consfy\x29 \x28ohcpet avwngb\x29 t \x28\x29 \x28mxpcnq vnuwzs mclddn qosbyd\x29 \x28\x29 ogrcbn \x28\x29 \x28\x28sfabej dqrphi \x28pzxmzf\x29 htecph\x29 mpsnax\x29 \x28\x28dmjruf ohbpsx\x29 xagvqh\x29 \x28zugmfb xbocbk\x29 t \x28zxklkv bqhebt mtlpsi\x29 nrdqmd \x28bqgucl\x29 xqqgia \x28yrhxct\x29 t fcafcq ynxufs \x28aqcywd\x29 xbdbvy spddjf t mtwtbi whiqyh t \x29</data></match></read>
+</replay>
+</pov>

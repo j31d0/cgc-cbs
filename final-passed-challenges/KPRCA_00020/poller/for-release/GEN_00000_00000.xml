@@ -1,0 +1,995 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+<cbid>service</cbid>
+<replay>
+    <write><data>\x95\x05\x00\x00</data></write>
+    <write><data>0\x82\x05\x91\x01\x01\xff\x1a\x07b\xd6\x04H9\x13V\x03\x01\x2c\x14\x08\xb3\xf9\x3cT\x3e\x1e\xe3v\x15\x02o\xc0\x03\x07J\xea\xb5\x0c\x7f\x96g11\x06\x03\xf8\xf8\xf6\x03\x04\x7bl\x25\xd9\x04\x01\x15\x03\x04\x2d\xc3\xa2\x95\x13\x05\xef\x60\xc1\x5b\x9c\x14\x05\x7fe3\x03\x06\x14\x08\xe9\xdc\x10w\xdbP7\x17\x01\x01\x00\x18\x00\x06\x03\xf8\xf8\xf61\x1e\x18\x06\x02\x17\xbd\x24\xf8\x2a1\x0b\x1a\x01A\x13\x06B\xdao\xf2\xf7\x26\x04\x07k\xc4\xfd\xf4e\xeb\x02\x18\x08JJ D\x04m\xc7X\x01\x01\xff\x0c\x05\x0e\xffJ.0\x16\x05\x1b\xff\x24\xe6\xb7\x05\x00\x01\x01\x001\x82\x01\x1c\x12\x08\xd2\xf6w\xdd\xef\x14g\xf8\x13\x01\xd6\x04\x00\x03\x01\x1e\x1a\x000\x81\xc91\x81\x91\x02\x07d\x14\xff\xb1\xa8\xf4E\x16\x06o\xc2\x26\x86\x09\xb1\x01\x01\x000n\x12\x06\xf6\x81\xbf\xbe\xc1\xb3\x1a\x05\xa3\x7e\x15w\xe7\x16\x04\x05\xc3\xd4\xb9\x15\x03\xb5n\xd70K\x13\x02\x5ej\x0c\x07\x7f\x3e?\x60\xe8\x97\xbe\x12\x08\xa9\x14\xcb\xf5x\x06\x27\xbe\x17\x06\xdf538K\x15\x17\x018\x17\x03Tz\x09\x12\x01\x7d\x12\x02\x22s\x05\x00\x0c\x04\x1e.c\xf7\x15\x00\x16\x07\xa1\x0dd\x95\xb4\xbe\xb9\x03\x05K\x15\x0f\x94\xde\x1a\x01\xb8\x15\x05ju\x29\x81F\x14\x07\x7f\xe3\xf5\xb8\x2f\xbd7\x16\x021\xc8\x05\x00\x05\x00\x05\x00\x1a\x08\xa5\xf0\x22\xdb\xc7E\x25\x0a1\x08\x05\x00\x14\x01\xf8\x14\x01\x1e\x17\x06\x073zh\x8f\xfd\x18\x04\xf3\x7f\xa0\xac\x16\x05\xa5\xd7\xe3\xb0\xd1\x18\x04t\xf1h\xb9\x06\x03\xf8\xf8\xf6\x02\x08\x5f\xe3\x5cF\x12\xa0\xef\x18\x05\x00\x04\x02s\x091\x13\x17\x00\x0c\x05I\x24\xc8\xd6\xe3\x14\x05?\xe8N\x95\xd0\x01\x01\xff\x16\x01\x06\x04\x03\x7df\x18\x06\x03\xf8\xf8\xf6\x06\x03\xf8\xf8\xf60\x1b\x12\x06t\xa7\x2fo\x11\x5c\x03\x04V\xd64\xf1\x0c\x08\x08\xba\xb4\x5f\xdc\xba\x1f\x7f\x01\x01\xff\x03\x05\x7c\x86\xd8\xe4I\x04\x04P\xe1\xb8M1\x82\x02\xef\x18\x02\xe6:\x15\x05\x7d2\x90\x80\xd90\x82\x02\xe0\x13\x00\x02\x05f\xe6\xfc\xe2\x04\x13\x03\xc5\x06\xe4\x18\x01\x80\x01\x01\xff0\x82\x02\xa9\x17\x04M\x93n\x09\x0c\x07\x85y\x8d\xf5\x83\xa6\xbe\x0c\x08\xb0Yuo\xbd\xdd\x7e\xfc\x1a\x07\xa7 \xffj\x29\xa1v1\x82\x02P\x18\x01\xf6\x03\x03t\x5bJ\x14\x08\x07\x7d\x16\x2bB\x7f\x04\xc1\x18\x05t\x2d\xe7\x2d\xaf\x15\x08\x07V\xe9\x5d9\xa5\xc4e0\x82\x01\xf5\x18\x08\x04\x2c\x9a\xe5\x22\x1fu\x07\x04\x04\x89\x82\x06\xff\x04\x07\xf8\x9f\x8b\xef\x7e\xa4\xa10\x82\x01\x86\x05\x00\x02\x03\xa8\x900\x02\x01\x83\x01\x01\x00\x0c\x08\x17\xfe\xbf\x0b\xd9\x1d\xeea\x13\x02\xa7J1g\x0c\x08n\xa7wY\xfaX\xdd\x8d\x13\x07n\xa5\xb4lO3T\x03\x01\xb2\x15\x02\xe1\x05\x06\x03\xf8\xf8\xf6\x12\x074\xa7\x8a\xb5\xbc\xc0\x02\x1a\x06\x16\xf0\x92\x9f\x80I\x14\x05I\xaf\xa8:\x9f\x02\x05C\x23y\xa8\x8b\x17\x00\x06\x03\xf8\xf8\xf6\x04\x08\x22\xa1\x2b\x0b!\xdav\x3b\x18\x01\xf5\x16\x08\xc9\x26\xdai\xa2\x81\xc7\x1a\x04\x03z\xfb\x7e\x1a\x04\x9aO8\x23\x01\x01\xff\x01\x01\xff\x18\x00\x13\x03\xabR\x97\x0c\x06\xf4\xc8P\x86W\x3b1\x81\xe5\x04\x083\xca\x97\x0feG\x8c\x89\x01\x01\xff\x01\x01\x000\x81\xc2\x0c\x08\xb7\x95\xa1B\xbauX\x13\x1a\x03\x3dJ\xf2\x02\x08\xda\x3e\xb7fy2\xe5\x2f\x13\x08\x95\xa9\xc4\x1f\xf7\xb1\x12A1\x08\x12\x06\x11S\x5b\xdc\x7eU\x13\x07X\x9e\x800\xa7\x7c\x0b\x16\x08 \xc0\x06\xb4\x92\xb8\xcc\x7c\x05\x001b\x05\x00\x02\x00\x04\x03\x7e\xf1k\x16\x01\xcb\x02\x06\xb7\xc1\xf85\xeb\xc2\x01\x01\x00\x05\x00\x14\x08\x2b:\x229\xac6\xa3\xf6\x14\x06\xaf\xd5\xeb\xbe\x1f\x07\x03\x03\xa4\x0a\xd10\x16\x13\x04\x89\x89\xfb\x82\x16\x03?\xced\x05\x00\x12\x07i\x1e\x3e\x91Sw\xeb\x13\x06\xb4\xd9\x1dS\x9cZ\x0c\x01\x02\x1a\x07?\xcb9\x06bk\xc0\x03\x04\xe6\x02\xca\xe4\x1a\x06.\xa0\x15\xd2\x7e\x99\x12\x03\xc3\x91\x93\x1a\x08\x5c\xb8OqP\x96\x90\x90\x03\x035\x0fk\x01\x01\x00\x1a\x07\xe2N\xdal\xab\x99\xf3\x03\x02\xde\xdf\x06\x03\xf8\xf8\xf6\x06\x03\xf8\xf8\xf6\x06\x03\xf8\xf8\xf61F\x05\x001\x0c\x06\x03\xf8\xf8\xf6\x03\x01?\x18\x02\xfa\xbd\x02\x04\x9f\x15\xa6w\x03\x01\x12\x13\x06dp\xd6NY\xe3\x16\x07\xb7l2\xdbQ\xd6\x13\x14\x03\x99Q\xb7\x14\x07Q\x7d\xd9orJ\xe3\x06\x03\xf8\xf8\xf6\x0c\x07\xb18\x97ORZy\x14\x000\x1f\x0c\x07\xcf\x2d\xc2QA\x80\xb7\x03\x08\xf7\xedZ\xb4\xd1\xc1Po\x13\x03\xed\x9cf\x16\x05\x16t\xb4\xb2\xce\x1a\x01\xd9\x16\x07P\xf9\xcb\xe6\x5e\xb3\x96\x06\x03\xf8\xf8\xf6\x05\x00\x13\x07\x1dC\xf6\xeb\x9f\xb1Y\x02\x05\x8b\xf7\x7e\xaa\xa1\x0c\x08\xc00\xea\xf3\x8f\x1f\xb0\xac\x0c\x07\x12?qh\x8d\xdc\x9a\x0c\x052\xbd\x0b\xe3\x8f\x16\x05\x7b\x193\xea\x8f\x17\x07\x26\x9f\xc7\xfd\x2c\x92\x0e\x06\x03\xf8\xf8\xf6\x03\x07\xdc\xe5\x02b\xb3r\x96\x04\x046U\x5e\x98\x05\x00\x13\x00\x02\x02\xdb\xa6\x12\x02\xf9\xd9\x01\x01\x00\x03\x03\xcfR\x8c\x14\x00\x16\x08Q\x06\xa4\xcb\xfc\xab\xb4\x7f\x01\x01\x00\x06\x03\xf8\xf8\xf6\x18\x01\xd1\x05\x00\x16\x08\x07\xe6\xe8\x18\x96\x7b\xe1Q\x03\x07\xed\x89\x06\xcc\x5b\x19?\x12\x06\x0f\x9ae\x07\xb3\xf9\x04\x01\xdf\x16\x04\x2d\xa1\xf1\x2f\x1a\x05Vp\xc6\xd4\x60\x12\x08\x80\xd6\xd5\x14\x1bOI\x85\x18\x01\xa3\x06\x03\xf8\xf8\xf6\x16\x00\x06\x03\xf8\xf8\xf6\x1a\x05\xfdes\xe4\xb8\x03\x08\xf39\xe4\x2d\xa3X\xa6V\x05\x00\x16\x07\x03\x02\xf7dS\xb5\xd8\x18\x01\x5b\x0c\x05\x04\xa4\x13\xe6\xcf\x16\x08\x87\xd8\x0d\xd4\xe8\x2f\x8fd\x13\x07\xc1bP\xe1\xb9\xf5\x3e\x0c\x06\x88\x3d\xb6\xb5\xf4\x9f\x04\x04\xb3\x0c\x10\xe7</data></write>
+    <read><length>14</length><match><data>UNIVERSAL SEQ </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL BOOLEAN </data></match></read>
+    <read><length>4</length><match><data>True</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL VISSTR </data></match></read>
+    <read><length>15</length><match><data>b\x5cxd6\x5cx4H9\x5cx13V</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL BITSTR </data></match></read>
+    <read><length>3</length><match><data>2C </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL TELESTR </data></match></read>
+    <read><length>26</length><match><data>\x5cxb3\x5cxf9\x5cx3cT\x5cx3e\x5cx1e\x5cxe3v</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL VIDSTR </data></match></read>
+    <read><length>5</length><match><data>o\x5cxc0</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL BITSTR </data></match></read>
+    <read><length>21</length><match><data>4A EA B5 0C 7F 96 67 </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL SET </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL OID </data></match></read>
+    <read><delim>\x0a</delim><match><pcre>[\d.]*</pcre></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL BITSTR </data></match></read>
+    <read><length>12</length><match><data>7B 6C 25 D9 </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL OCTETSTR </data></match></read>
+    <read><length>3</length><match><data>15 </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL BITSTR </data></match></read>
+    <read><length>12</length><match><data>2D C3 A2 95 </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL PRINTSTR </data></match></read>
+    <read><length>20</length><match><data>\x5cxef\x5cx60\x5cxc1\x5cx5b\x5cx9c</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL TELESTR </data></match></read>
+    <read><length>12</length><match><data>\x5cx7fe3\x5cx3\x5cx6</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL TELESTR </data></match></read>
+    <read><length>23</length><match><data>\x5cxe9\x5cxdc\x5cx10w\x5cxdbP7\x5cx17</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL BOOLEAN </data></match></read>
+    <read><length>5</length><match><data>False</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL GENTIME </data></match></read>
+    <read><length>12</length><match><data>INVALID TIME</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL OID </data></match></read>
+    <read><delim>\x0a</delim><match><pcre>[\d.]*</pcre></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL SET </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL GENTIME </data></match></read>
+    <read><length>12</length><match><data>INVALID TIME</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL SET </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>12</length><match><data>            </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL VISSTR </data></match></read>
+    <read><length>1</length><match><data>A</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>12</length><match><data>            </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL PRINTSTR </data></match></read>
+    <read><length>18</length><match><data>B\x5cxdao\x5cxf2\x5cxf7\x5cx26</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL OCTETSTR </data></match></read>
+    <read><length>21</length><match><data>6B C4 FD F4 65 EB 02 </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL GENTIME </data></match></read>
+    <read><length>12</length><match><data>INVALID TIME</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL BOOLEAN </data></match></read>
+    <read><length>4</length><match><data>True</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL UTFSTR </data></match></read>
+    <read><length>13</length><match><data>\x5cxe\x5cxffJ\x5cx2e0</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL IA5STR </data></match></read>
+    <read><length>20</length><match><data>\x5cx1b\x5cxff\x5cx24\x5cxe6\x5cxb7</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>15</length><match><data>UNIVERSAL NULL </data></match></read>
+    <read><length>11</length><match><data>UNPRINTABLE</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL BOOLEAN </data></match></read>
+    <read><length>5</length><match><data>False</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL SET </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL NUMSTR </data></match></read>
+    <read><length>26</length><match><data>\x5cxd2\x5cxf6w\x5cxdd\x5cxef\x5cx14g\x5cxf8</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL PRINTSTR </data></match></read>
+    <read><length>4</length><match><data>\x5cxd6</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL OCTETSTR </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL BITSTR </data></match></read>
+    <read><length>3</length><match><data>1E </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL VISSTR </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL SEQ </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>12</length><match><data>            </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL SET </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>16</length><match><data>                </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL INTEGER </data></match></read>
+    <read><length>21</length><match><data>64 14 FF B1 A8 F4 45 </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>16</length><match><data>                </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL IA5STR </data></match></read>
+    <read><length>20</length><match><data>o\x5cxc2\x5cx26\x5cx86\x5cx9\x5cxb1</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>16</length><match><data>                </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL BOOLEAN </data></match></read>
+    <read><length>5</length><match><data>False</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>16</length><match><data>                </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL SEQ </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>20</length><match><data>                    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL NUMSTR </data></match></read>
+    <read><length>24</length><match><data>\x5cxf6\x5cx81\x5cxbf\x5cxbe\x5cxc1\x5cxb3</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>20</length><match><data>                    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL VISSTR </data></match></read>
+    <read><length>17</length><match><data>\x5cxa3\x5cx7e\x5cx15w\x5cxe7</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>20</length><match><data>                    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL IA5STR </data></match></read>
+    <read><length>15</length><match><data>\x5cx5\x5cxc3\x5cxd4\x5cxb9</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>20</length><match><data>                    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL VIDSTR </data></match></read>
+    <read><length>9</length><match><data>\x5cxb5n\x5cxd7</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>20</length><match><data>                    </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL SEQ </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>24</length><match><data>                        </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL PRINTSTR </data></match></read>
+    <read><length>5</length><match><data>\x5cx5ej</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>24</length><match><data>                        </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL UTFSTR </data></match></read>
+    <read><length>28</length><match><data>\x5cx7f\x5cx3e\x5cx3f\x5cx60\x5cxe8\x5cx97\x5cxbe</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>24</length><match><data>                        </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL NUMSTR </data></match></read>
+    <read><length>28</length><match><data>\x5cxa9\x5cx14\x5cxcb\x5cxf5x\x5cx6\x5cx27\x5cxbe</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>24</length><match><data>                        </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL UTCTIME </data></match></read>
+    <read><length>12</length><match><data>INVALID TIME</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>24</length><match><data>                        </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL UTCTIME </data></match></read>
+    <read><length>12</length><match><data>INVALID TIME</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>24</length><match><data>                        </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL UTCTIME </data></match></read>
+    <read><length>12</length><match><data>INVALID TIME</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>24</length><match><data>                        </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL NUMSTR </data></match></read>
+    <read><length>4</length><match><data>\x5cx7d</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>24</length><match><data>                        </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL NUMSTR </data></match></read>
+    <read><length>5</length><match><data>\x5cx22s</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>24</length><match><data>                        </data></match></read>
+    <read><length>15</length><match><data>UNIVERSAL NULL </data></match></read>
+    <read><length>11</length><match><data>UNPRINTABLE</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>24</length><match><data>                        </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL UTFSTR </data></match></read>
+    <read><length>13</length><match><data>\x5cx1e\x5cx2ec\x5cxf7</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>24</length><match><data>                        </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL VIDSTR </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>24</length><match><data>                        </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL IA5STR </data></match></read>
+    <read><length>24</length><match><data>\x5cxa1\x5cxdd\x5cx95\x5cxb4\x5cxbe\x5cxb9</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>24</length><match><data>                        </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL BITSTR </data></match></read>
+    <read><length>15</length><match><data>4B 15 0F 94 DE </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>24</length><match><data>                        </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL VISSTR </data></match></read>
+    <read><length>4</length><match><data>\x5cxb8</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>20</length><match><data>                    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL VIDSTR </data></match></read>
+    <read><length>11</length><match><data>ju\x5cx29\x5cx81F</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>16</length><match><data>                </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL TELESTR </data></match></read>
+    <read><length>25</length><match><data>\x5cx7f\x5cxe3\x5cxf5\x5cxb8\x5cx2f\x5cxbd7</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>16</length><match><data>                </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL IA5STR </data></match></read>
+    <read><length>5</length><match><data>1\x5cxc8</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>12</length><match><data>            </data></match></read>
+    <read><length>15</length><match><data>UNIVERSAL NULL </data></match></read>
+    <read><length>11</length><match><data>UNPRINTABLE</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>12</length><match><data>            </data></match></read>
+    <read><length>15</length><match><data>UNIVERSAL NULL </data></match></read>
+    <read><length>11</length><match><data>UNPRINTABLE</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>12</length><match><data>            </data></match></read>
+    <read><length>15</length><match><data>UNIVERSAL NULL </data></match></read>
+    <read><length>11</length><match><data>UNPRINTABLE</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>12</length><match><data>            </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL VISSTR </data></match></read>
+    <read><length>28</length><match><data>\x5cxa5\x5cxf0\x5cx22\x5cxdb\x5cxc7E\x5cx25\x5cxa</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>12</length><match><data>            </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL SET </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>16</length><match><data>                </data></match></read>
+    <read><length>15</length><match><data>UNIVERSAL NULL </data></match></read>
+    <read><length>11</length><match><data>UNPRINTABLE</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>16</length><match><data>                </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL TELESTR </data></match></read>
+    <read><length>4</length><match><data>\x5cxf8</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>16</length><match><data>                </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL TELESTR </data></match></read>
+    <read><length>4</length><match><data>\x5cx1e</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>12</length><match><data>            </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL UTCTIME </data></match></read>
+    <read><length>12</length><match><data>INVALID TIME</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>12</length><match><data>            </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL GENTIME </data></match></read>
+    <read><length>12</length><match><data>INVALID TIME</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>12</length><match><data>            </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL IA5STR </data></match></read>
+    <read><length>20</length><match><data>\x5cxa5\x5cxd7\x5cxe3\x5cxb0\x5cxd1</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>12</length><match><data>            </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL GENTIME </data></match></read>
+    <read><length>12</length><match><data>INVALID TIME</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL OID </data></match></read>
+    <read><delim>\x0a</delim><match><pcre>[\d.]*</pcre></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL INTEGER </data></match></read>
+    <read><length>24</length><match><data>5F E3 5C 46 12 A0 EF 18 </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>15</length><match><data>UNIVERSAL NULL </data></match></read>
+    <read><length>11</length><match><data>UNPRINTABLE</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL OCTETSTR </data></match></read>
+    <read><length>6</length><match><data>73 09 </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL SET </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>12</length><match><data>            </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL UTCTIME </data></match></read>
+    <read><length>12</length><match><data>INVALID TIME</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>12</length><match><data>            </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL UTFSTR </data></match></read>
+    <read><length>17</length><match><data>I\x5cx24\x5cxc8\x5cxd6\x5cxe3</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>12</length><match><data>            </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL TELESTR </data></match></read>
+    <read><length>17</length><match><data>\x5cx3f\x5cxe8N\x5cx95\x5cxd0</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>12</length><match><data>            </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL BOOLEAN </data></match></read>
+    <read><length>4</length><match><data>True</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL IA5STR </data></match></read>
+    <read><length>3</length><match><data>\x5cx6</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL OCTETSTR </data></match></read>
+    <read><length>9</length><match><data>7D 66 18 </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL OID </data></match></read>
+    <read><delim>\x0a</delim><match><pcre>[\d.]*</pcre></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL OID </data></match></read>
+    <read><delim>\x0a</delim><match><pcre>[\d.]*</pcre></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL SEQ </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL NUMSTR </data></match></read>
+    <read><length>18</length><match><data>t\x5cxa7\x5cx2fo\x5cx11\x5cx5c</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL BITSTR </data></match></read>
+    <read><length>12</length><match><data>56 D6 34 F1 </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL UTFSTR </data></match></read>
+    <read><length>31</length><match><data>\x5cx8\x5cxba\x5cxb4\x5cx5f\x5cxdc\x5cxba\x5cx1f\x5cx7f</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL BOOLEAN </data></match></read>
+    <read><length>4</length><match><data>True</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL BITSTR </data></match></read>
+    <read><length>15</length><match><data>7C 86 D8 E4 49 </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL OCTETSTR </data></match></read>
+    <read><length>12</length><match><data>50 E1 B8 4D </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL SET </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL GENTIME </data></match></read>
+    <read><length>12</length><match><data>INVALID TIME</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL VIDSTR </data></match></read>
+    <read><length>17</length><match><data>\x5cx7d2\x5cx90\x5cx80\x5cxd9</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>8</length><match><data>        </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL SEQ </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>12</length><match><data>            </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL PRINTSTR </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>12</length><match><data>            </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL INTEGER </data></match></read>
+    <read><length>15</length><match><data>66 E6 FC E2 04 </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>12</length><match><data>            </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL PRINTSTR </data></match></read>
+    <read><length>11</length><match><data>\x5cxc5\x5cx6\x5cxe4</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>12</length><match><data>            </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL GENTIME </data></match></read>
+    <read><length>12</length><match><data>INVALID TIME</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>12</length><match><data>            </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL BOOLEAN </data></match></read>
+    <read><length>4</length><match><data>True</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>12</length><match><data>            </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL SEQ </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>16</length><match><data>                </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL UTCTIME </data></match></read>
+    <read><length>12</length><match><data>INVALID TIME</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>16</length><match><data>                </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL UTFSTR </data></match></read>
+    <read><length>25</length><match><data>\x5cx85y\x5cx8d\x5cxf5\x5cx83\x5cxa6\x5cxbe</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>16</length><match><data>                </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL UTFSTR </data></match></read>
+    <read><length>23</length><match><data>\x5cxb0Yuo\x5cxbd\x5cxdd\x5cx7e\x5cxfc</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>16</length><match><data>                </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL VISSTR </data></match></read>
+    <read><length>22</length><match><data>\x5cxa7\x5cx20\x5cxffj\x5cx29\x5cxa1v</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>16</length><match><data>                </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL SET </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>20</length><match><data>                    </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL GENTIME </data></match></read>
+    <read><length>12</length><match><data>INVALID TIME</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>20</length><match><data>                    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL BITSTR </data></match></read>
+    <read><length>9</length><match><data>74 5B 4A </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>20</length><match><data>                    </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL TELESTR </data></match></read>
+    <read><length>27</length><match><data>\x5cx7\x5cx7d\x5cx16\x5cx2bB\x5cx7f\x5cx4\x5cxc1</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>20</length><match><data>                    </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL GENTIME </data></match></read>
+    <read><length>12</length><match><data>INVALID TIME</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>20</length><match><data>                    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL VIDSTR </data></match></read>
+    <read><length>22</length><match><data>\x5cx7V\x5cxe9\x5cx5d9\x5cxa5\x5cxc4e</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>20</length><match><data>                    </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL SEQ </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>24</length><match><data>                        </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL GENTIME </data></match></read>
+    <read><length>12</length><match><data>INVALID TIME</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>24</length><match><data>                        </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL OCTETSTR </data></match></read>
+    <read><length>12</length><match><data>89 82 06 FF </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>24</length><match><data>                        </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL OCTETSTR </data></match></read>
+    <read><length>21</length><match><data>F8 9F 8B EF 7E A4 A1 </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>24</length><match><data>                        </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL SEQ </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>28</length><match><data>                            </data></match></read>
+    <read><length>15</length><match><data>UNIVERSAL NULL </data></match></read>
+    <read><length>11</length><match><data>UNPRINTABLE</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>28</length><match><data>                            </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL INTEGER </data></match></read>
+    <read><length>9</length><match><data>A8 90 30 </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>28</length><match><data>                            </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL INTEGER </data></match></read>
+    <read><length>3</length><match><data>83 </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>28</length><match><data>                            </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL BOOLEAN </data></match></read>
+    <read><length>5</length><match><data>False</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>28</length><match><data>                            </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL UTFSTR </data></match></read>
+    <read><length>28</length><match><data>\x5cx17\x5cxfe\x5cxbf\x5cxb\x5cxd9\x5cx1d\x5cxeea</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>28</length><match><data>                            </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL PRINTSTR </data></match></read>
+    <read><length>5</length><match><data>\x5cxa7J</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>28</length><match><data>                            </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL SET </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>32</length><match><data>                                </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL UTFSTR </data></match></read>
+    <read><length>20</length><match><data>n\x5cxa7wY\x5cxfaX\x5cxdd\x5cx8d</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>32</length><match><data>                                </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL PRINTSTR </data></match></read>
+    <read><length>13</length><match><data>n\x5cxa5\x5cxb4lO3T</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>32</length><match><data>                                </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL BITSTR </data></match></read>
+    <read><length>3</length><match><data>B2 </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>32</length><match><data>                                </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL VIDSTR </data></match></read>
+    <read><length>7</length><match><data>\x5cxe1\x5cx5</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>32</length><match><data>                                </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL OID </data></match></read>
+    <read><delim>\x0a</delim><match><pcre>[\d.]*</pcre></match></read>
+    <read><length>32</length><match><data>                                </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL NUMSTR </data></match></read>
+    <read><length>24</length><match><data>4\x5cxa7\x5cx8a\x5cxb5\x5cxbc\x5cxc0\x5cx2</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>32</length><match><data>                                </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL VISSTR </data></match></read>
+    <read><length>21</length><match><data>\x5cx16\x5cxf0\x5cx92\x5cx9f\x5cx80I</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>32</length><match><data>                                </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL TELESTR </data></match></read>
+    <read><length>17</length><match><data>I\x5cxaf\x5cxa8\x5cx3a\x5cx9f</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>32</length><match><data>                                </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL INTEGER </data></match></read>
+    <read><length>15</length><match><data>43 23 79 A8 8B </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>32</length><match><data>                                </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL UTCTIME </data></match></read>
+    <read><length>12</length><match><data>INVALID TIME</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>32</length><match><data>                                </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL OID </data></match></read>
+    <read><delim>\x0a</delim><match><pcre>[\d.]*</pcre></match></read>
+    <read><length>32</length><match><data>                                </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL OCTETSTR </data></match></read>
+    <read><length>24</length><match><data>22 A1 2B 0B 21 DA 76 3B </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>32</length><match><data>                                </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL GENTIME </data></match></read>
+    <read><length>12</length><match><data>INVALID TIME</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>32</length><match><data>                                </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL IA5STR </data></match></read>
+    <read><length>29</length><match><data>\x5cxc9\x5cx26\x5cxdai\x5cxa2\x5cx81\x5cxc7\x5cx1a</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>32</length><match><data>                                </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL OCTETSTR </data></match></read>
+    <read><length>9</length><match><data>7A FB 7E </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>32</length><match><data>                                </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL VISSTR </data></match></read>
+    <read><length>10</length><match><data>\x5cx9aO8\x5cx23</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>28</length><match><data>                            </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL BOOLEAN </data></match></read>
+    <read><length>4</length><match><data>True</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>28</length><match><data>                            </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL BOOLEAN </data></match></read>
+    <read><length>4</length><match><data>True</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>28</length><match><data>                            </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL GENTIME </data></match></read>
+    <read><length>12</length><match><data>INVALID TIME</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>28</length><match><data>                            </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL PRINTSTR </data></match></read>
+    <read><length>9</length><match><data>\x5cxabR\x5cx97</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>28</length><match><data>                            </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL UTFSTR </data></match></read>
+    <read><length>18</length><match><data>\x5cxf4\x5cxc8P\x5cx86W\x5cx3b</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>28</length><match><data>                            </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL SET </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>32</length><match><data>                                </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL OCTETSTR </data></match></read>
+    <read><length>24</length><match><data>33 CA 97 0F 65 47 8C 89 </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>32</length><match><data>                                </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL BOOLEAN </data></match></read>
+    <read><length>4</length><match><data>True</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>32</length><match><data>                                </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL BOOLEAN </data></match></read>
+    <read><length>5</length><match><data>False</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>32</length><match><data>                                </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL SEQ </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>36</length><match><data>                                    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL UTFSTR </data></match></read>
+    <read><length>23</length><match><data>\x5cxb7\x5cx95\x5cxa1B\x5cxbauX\x5cx13</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>36</length><match><data>                                    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL VISSTR </data></match></read>
+    <read><length>9</length><match><data>\x5cx3dJ\x5cxf2</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>36</length><match><data>                                    </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL INTEGER </data></match></read>
+    <read><length>24</length><match><data>DA 3E B7 66 79 32 E5 2F </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>36</length><match><data>                                    </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL PRINTSTR </data></match></read>
+    <read><length>29</length><match><data>\x5cx95\x5cxa9\x5cxc4\x5cx1f\x5cxf7\x5cxb1\x5cx12A</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>36</length><match><data>                                    </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL SET </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>40</length><match><data>                                        </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL NUMSTR </data></match></read>
+    <read><length>18</length><match><data>\x5cx11S\x5cx5b\x5cxdc\x5cx7eU</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>36</length><match><data>                                    </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL PRINTSTR </data></match></read>
+    <read><length>21</length><match><data>X\x5cx9e\x5cx800\x5cxa7\x5cx7c\x5cxb</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>36</length><match><data>                                    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL IA5STR </data></match></read>
+    <read><length>31</length><match><data>\x5cx20\x5cxc0\x5cx6\x5cxb4\x5cx92\x5cxb8\x5cxcc\x5cx7c</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>36</length><match><data>                                    </data></match></read>
+    <read><length>15</length><match><data>UNIVERSAL NULL </data></match></read>
+    <read><length>11</length><match><data>UNPRINTABLE</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>36</length><match><data>                                    </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL SET </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>40</length><match><data>                                        </data></match></read>
+    <read><length>15</length><match><data>UNIVERSAL NULL </data></match></read>
+    <read><length>11</length><match><data>UNPRINTABLE</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>40</length><match><data>                                        </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL INTEGER </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>40</length><match><data>                                        </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL OCTETSTR </data></match></read>
+    <read><length>9</length><match><data>7E F1 6B </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>40</length><match><data>                                        </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL IA5STR </data></match></read>
+    <read><length>4</length><match><data>\x5cxcb</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>40</length><match><data>                                        </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL INTEGER </data></match></read>
+    <read><length>18</length><match><data>B7 C1 F8 35 EB C2 </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>40</length><match><data>                                        </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL BOOLEAN </data></match></read>
+    <read><length>5</length><match><data>False</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>40</length><match><data>                                        </data></match></read>
+    <read><length>15</length><match><data>UNIVERSAL NULL </data></match></read>
+    <read><length>11</length><match><data>UNPRINTABLE</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>40</length><match><data>                                        </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL TELESTR </data></match></read>
+    <read><length>26</length><match><data>\x5cx2b\x5cx3a\x5cx229\x5cxac6\x5cxa3\x5cxf6</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>40</length><match><data>                                        </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL TELESTR </data></match></read>
+    <read><length>23</length><match><data>\x5cxaf\x5cxd5\x5cxeb\x5cxbe\x5cx1f\x5cx7</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>40</length><match><data>                                        </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL BITSTR </data></match></read>
+    <read><length>9</length><match><data>A4 0A D1 </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>40</length><match><data>                                        </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL SEQ </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>44</length><match><data>                                            </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL PRINTSTR </data></match></read>
+    <read><length>16</length><match><data>\x5cx89\x5cx89\x5cxfb\x5cx82</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>44</length><match><data>                                            </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL IA5STR </data></match></read>
+    <read><length>9</length><match><data>\x5cx3f\x5cxced</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>44</length><match><data>                                            </data></match></read>
+    <read><length>15</length><match><data>UNIVERSAL NULL </data></match></read>
+    <read><length>11</length><match><data>UNPRINTABLE</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>44</length><match><data>                                            </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL NUMSTR </data></match></read>
+    <read><length>19</length><match><data>i\x5cx1e\x5cx3e\x5cx91Sw\x5cxeb</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>40</length><match><data>                                        </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL PRINTSTR </data></match></read>
+    <read><length>18</length><match><data>\x5cxb4\x5cxd9\x5cx1dS\x5cx9cZ</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>40</length><match><data>                                        </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL UTFSTR </data></match></read>
+    <read><length>3</length><match><data>\x5cx2</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>40</length><match><data>                                        </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL VISSTR </data></match></read>
+    <read><length>18</length><match><data>\x5cx3f\x5cxcb9\x5cx6bk\x5cxc0</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>40</length><match><data>                                        </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL BITSTR </data></match></read>
+    <read><length>12</length><match><data>E6 02 CA E4 </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>36</length><match><data>                                    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL VISSTR </data></match></read>
+    <read><length>24</length><match><data>\x5cx2e\x5cxa0\x5cx15\x5cxd2\x5cx7e\x5cx99</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>36</length><match><data>                                    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL NUMSTR </data></match></read>
+    <read><length>12</length><match><data>\x5cxc3\x5cx91\x5cx93</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>36</length><match><data>                                    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL VISSTR </data></match></read>
+    <read><length>23</length><match><data>\x5cx5c\x5cxb8OqP\x5cx96\x5cx90\x5cx90</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>36</length><match><data>                                    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL BITSTR </data></match></read>
+    <read><length>9</length><match><data>35 0F 6B </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>32</length><match><data>                                </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL BOOLEAN </data></match></read>
+    <read><length>5</length><match><data>False</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>32</length><match><data>                                </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL VISSTR </data></match></read>
+    <read><length>22</length><match><data>\x5cxe2N\x5cxdal\x5cxab\x5cx99\x5cxf3</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>32</length><match><data>                                </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL BITSTR </data></match></read>
+    <read><length>6</length><match><data>DE DF </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>28</length><match><data>                            </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL OID </data></match></read>
+    <read><delim>\x0a</delim><match><pcre>[\d.]*</pcre></match></read>
+    <read><length>24</length><match><data>                        </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL OID </data></match></read>
+    <read><delim>\x0a</delim><match><pcre>[\d.]*</pcre></match></read>
+    <read><length>24</length><match><data>                        </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL OID </data></match></read>
+    <read><delim>\x0a</delim><match><pcre>[\d.]*</pcre></match></read>
+    <read><length>24</length><match><data>                        </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL SET </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>28</length><match><data>                            </data></match></read>
+    <read><length>15</length><match><data>UNIVERSAL NULL </data></match></read>
+    <read><length>11</length><match><data>UNPRINTABLE</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>28</length><match><data>                            </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL SET </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>32</length><match><data>                                </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL OID </data></match></read>
+    <read><delim>\x0a</delim><match><pcre>[\d.]*</pcre></match></read>
+    <read><length>32</length><match><data>                                </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL BITSTR </data></match></read>
+    <read><length>3</length><match><data>3F </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>32</length><match><data>                                </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL GENTIME </data></match></read>
+    <read><length>12</length><match><data>INVALID TIME</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>28</length><match><data>                            </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL INTEGER </data></match></read>
+    <read><length>12</length><match><data>9F 15 A6 77 </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>28</length><match><data>                            </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL BITSTR </data></match></read>
+    <read><length>3</length><match><data>12 </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>28</length><match><data>                            </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL PRINTSTR </data></match></read>
+    <read><length>12</length><match><data>dp\x5cxd6NY\x5cxe3</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>28</length><match><data>                            </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL IA5STR </data></match></read>
+    <read><length>19</length><match><data>\x5cxb7l2\x5cxdbQ\x5cxd6\x5cx13</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>28</length><match><data>                            </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL TELESTR </data></match></read>
+    <read><length>9</length><match><data>\x5cx99Q\x5cxb7</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>28</length><match><data>                            </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL TELESTR </data></match></read>
+    <read><length>16</length><match><data>Q\x5cx7d\x5cxd9orJ\x5cxe3</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>28</length><match><data>                            </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL OID </data></match></read>
+    <read><delim>\x0a</delim><match><pcre>[\d.]*</pcre></match></read>
+    <read><length>28</length><match><data>                            </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL UTFSTR </data></match></read>
+    <read><length>13</length><match><data>\x5cxb18\x5cx97ORZy</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>20</length><match><data>                    </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL TELESTR </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>20</length><match><data>                    </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL SEQ </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>24</length><match><data>                        </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL UTFSTR </data></match></read>
+    <read><length>22</length><match><data>\x5cxcf\x5cx2d\x5cxc2QA\x5cx80\x5cxb7</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>24</length><match><data>                        </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL BITSTR </data></match></read>
+    <read><length>24</length><match><data>F7 ED 5A B4 D1 C1 50 6F </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>24</length><match><data>                        </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL PRINTSTR </data></match></read>
+    <read><length>9</length><match><data>\x5cxed\x5cx9cf</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>24</length><match><data>                        </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL IA5STR </data></match></read>
+    <read><length>17</length><match><data>\x5cx16t\x5cxb4\x5cxb2\x5cxce</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>20</length><match><data>                    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL VISSTR </data></match></read>
+    <read><length>4</length><match><data>\x5cxd9</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>20</length><match><data>                    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL IA5STR </data></match></read>
+    <read><length>25</length><match><data>P\x5cxf9\x5cxcb\x5cxe6\x5cx5e\x5cxb3\x5cx96</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>20</length><match><data>                    </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL OID </data></match></read>
+    <read><delim>\x0a</delim><match><pcre>[\d.]*</pcre></match></read>
+    <read><length>16</length><match><data>                </data></match></read>
+    <read><length>15</length><match><data>UNIVERSAL NULL </data></match></read>
+    <read><length>11</length><match><data>UNPRINTABLE</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>16</length><match><data>                </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL PRINTSTR </data></match></read>
+    <read><length>22</length><match><data>\x5cx1dC\x5cxf6\x5cxeb\x5cx9f\x5cxb1Y</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>16</length><match><data>                </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL INTEGER </data></match></read>
+    <read><length>15</length><match><data>8B F7 7E AA A1 </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>16</length><match><data>                </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL UTFSTR </data></match></read>
+    <read><length>29</length><match><data>\x5cxc00\x5cxea\x5cxf3\x5cx8f\x5cx1f\x5cxb0\x5cxac</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>16</length><match><data>                </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL UTFSTR </data></match></read>
+    <read><length>22</length><match><data>\x5cx12\x5cx3fqh\x5cx8d\x5cxdc\x5cx9a</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>16</length><match><data>                </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL UTFSTR </data></match></read>
+    <read><length>16</length><match><data>2\x5cxbd\x5cxb\x5cxe3\x5cx8f</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>16</length><match><data>                </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL IA5STR </data></match></read>
+    <read><length>17</length><match><data>\x5cx7b\x5cx193\x5cxea\x5cx8f</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>12</length><match><data>            </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL UTCTIME </data></match></read>
+    <read><length>12</length><match><data>INVALID TIME</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>12</length><match><data>            </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL OID </data></match></read>
+    <read><delim>\x0a</delim><match><pcre>[\d.]*</pcre></match></read>
+    <read><length>12</length><match><data>            </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL BITSTR </data></match></read>
+    <read><length>21</length><match><data>DC E5 02 62 B3 72 96 </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>12</length><match><data>            </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL OCTETSTR </data></match></read>
+    <read><length>12</length><match><data>36 55 5E 98 </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>12</length><match><data>            </data></match></read>
+    <read><length>15</length><match><data>UNIVERSAL NULL </data></match></read>
+    <read><length>11</length><match><data>UNPRINTABLE</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL PRINTSTR </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL INTEGER </data></match></read>
+    <read><length>6</length><match><data>DB A6 </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL NUMSTR </data></match></read>
+    <read><length>8</length><match><data>\x5cxf9\x5cxd9</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL BOOLEAN </data></match></read>
+    <read><length>5</length><match><data>False</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL BITSTR </data></match></read>
+    <read><length>9</length><match><data>CF 52 8C </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL TELESTR </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL IA5STR </data></match></read>
+    <read><length>28</length><match><data>Q\x5cx6\x5cxa4\x5cxcb\x5cxfc\x5cxab\x5cxb4\x5cx7f</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL BOOLEAN </data></match></read>
+    <read><length>5</length><match><data>False</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL OID </data></match></read>
+    <read><delim>\x0a</delim><match><pcre>[\d.]*</pcre></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL GENTIME </data></match></read>
+    <read><length>12</length><match><data>INVALID TIME</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>15</length><match><data>UNIVERSAL NULL </data></match></read>
+    <read><length>11</length><match><data>UNPRINTABLE</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL IA5STR </data></match></read>
+    <read><length>28</length><match><data>\x5cx7\x5cxe6\x5cxe8\x5cx18\x5cx96\x5cx7b\x5cxe1Q</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL BITSTR </data></match></read>
+    <read><length>21</length><match><data>ED 89 06 CC 5B 19 3F </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL NUMSTR </data></match></read>
+    <read><length>19</length><match><data>\x5cxf\x5cx9ae\x5cx7\x5cxb3\x5cxf9</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL OCTETSTR </data></match></read>
+    <read><length>3</length><match><data>DF </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL IA5STR </data></match></read>
+    <read><length>16</length><match><data>\x5cx2d\x5cxa1\x5cxf1\x5cx2f</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL VISSTR </data></match></read>
+    <read><length>14</length><match><data>Vp\x5cxc6\x5cxd4\x5cx60</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL NUMSTR </data></match></read>
+    <read><length>26</length><match><data>\x5cx80\x5cxd6\x5cxd5\x5cx14\x5cx1bOI\x5cx85</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL GENTIME </data></match></read>
+    <read><length>12</length><match><data>INVALID TIME</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL OID </data></match></read>
+    <read><delim>\x0a</delim><match><pcre>[\d.]*</pcre></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL IA5STR </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>14</length><match><data>UNIVERSAL OID </data></match></read>
+    <read><delim>\x0a</delim><match><pcre>[\d.]*</pcre></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL VISSTR </data></match></read>
+    <read><length>14</length><match><data>\x5cxfdes\x5cxe4\x5cxb8</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL BITSTR </data></match></read>
+    <read><length>24</length><match><data>F3 39 E4 2D A3 58 A6 56 </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>15</length><match><data>UNIVERSAL NULL </data></match></read>
+    <read><length>11</length><match><data>UNPRINTABLE</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL IA5STR </data></match></read>
+    <read><length>20</length><match><data>\x5cx3\x5cx2\x5cxf7dS\x5cxb5\x5cxd8</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>18</length><match><data>UNIVERSAL GENTIME </data></match></read>
+    <read><length>12</length><match><data>INVALID TIME</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL UTFSTR </data></match></read>
+    <read><length>19</length><match><data>\x5cx4\x5cxa4\x5cx13\x5cxe6\x5cxcf</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL IA5STR </data></match></read>
+    <read><length>28</length><match><data>\x5cx87\x5cxd8\x5cxd\x5cxd4\x5cxe8\x5cx2f\x5cx8fd</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL PRINTSTR </data></match></read>
+    <read><length>22</length><match><data>\x5cxc1bP\x5cxe1\x5cxb9\x5cxf5\x5cx3e</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>17</length><match><data>UNIVERSAL UTFSTR </data></match></read>
+    <read><length>24</length><match><data>\x5cx88\x5cx3d\x5cxb6\x5cxb5\x5cxf4\x5cx9f</data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+    <read><length>4</length><match><data>    </data></match></read>
+    <read><length>19</length><match><data>UNIVERSAL OCTETSTR </data></match></read>
+    <read><length>12</length><match><data>B3 0C 10 E7 </data></match></read>
+    <read><length>1</length><match><data>\x0a</data></match></read>
+</replay>
+</pov>

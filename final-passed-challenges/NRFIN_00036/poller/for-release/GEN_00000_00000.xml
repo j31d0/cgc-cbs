@@ -1,0 +1,217 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+<cbid>service</cbid>
+<replay>
+    <write><data>\x01\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>Y9HsCRy8Z\x07</data></write>
+    <write><data>f\x03\x00\x00</data></write>
+    <read><delim>\x0a</delim><match><data>New budget created!\x0a</data></match></read>
+    <write><data>\x03\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>Y9HsCRy8Z\x07</data></write>
+    <read><length>40</length><match><pcre>870[0]*</pcre></match></read>
+    <write><data>\x03\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>Y9HsCRy8Z\x07</data></write>
+    <read><length>40</length><match><pcre>870[0]*</pcre></match></read>
+    <write><data>\x03\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>Y9HsCRy8Z\x07</data></write>
+    <read><length>40</length><match><pcre>870[0]*</pcre></match></read>
+    <write><data>\x01\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>1TfYefGS3\x07</data></write>
+    <write><data>\xdc\x02\x00\x00</data></write>
+    <read><delim>\x0a</delim><match><data>New budget created!\x0a</data></match></read>
+    <write><data>\x02\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>Y9HsCRy8Z\x07</data></write>
+    <write><data>\xc8\x03\x00\x00</data></write>
+    <read><delim>\x0a</delim><match><data>Y9HsCRy8Z is over budget!\x0a</data></match></read>
+    <write><data>\x03\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>Y9HsCRy8Z\x07</data></write>
+    <read><length>40</length><match><pcre>-98[0]*</pcre></match></read>
+    <write><data>\x01\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>sZfgyJNFc\x07</data></write>
+    <write><data>\xab\x02\x00\x00</data></write>
+    <read><delim>\x0a</delim><match><data>New budget created!\x0a</data></match></read>
+    <write><data>\x07\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <read><length>24</length><match><pcre>.*</pcre></match></read>
+    <read><length>40</length><match><pcre>.*</pcre></match></read>
+    <read><length>24</length><match><pcre>.*</pcre></match></read>
+    <read><length>40</length><match><pcre>.*</pcre></match></read>
+    <read><length>24</length><match><pcre>.*</pcre></match></read>
+    <read><length>40</length><match><pcre>.*</pcre></match></read>
+    <read><length>40</length><match><pcre>1317[0]*</pcre></match></read>
+    <write><data>\x01\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>wPLSMB4JI\x07</data></write>
+    <write><data>\x2a\x01\x00\x00</data></write>
+    <read><delim>\x0a</delim><match><data>New budget created!\x0a</data></match></read>
+    <write><data>\x01\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>GFTpG9Q9c\x07</data></write>
+    <write><data>1\x01\x00\x00</data></write>
+    <read><delim>\x0a</delim><match><data>New budget created!\x0a</data></match></read>
+    <write><data>\x03\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>Y9HsCRy8Z\x07</data></write>
+    <read><length>40</length><match><pcre>-98[0]*</pcre></match></read>
+    <write><data>\x03\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>GFTpG9Q9c\x07</data></write>
+    <read><length>40</length><match><pcre>305[0]*</pcre></match></read>
+    <write><data>\x01\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>wOLwjlK5t\x07</data></write>
+    <write><data>\x06\x03\x00\x00</data></write>
+    <read><delim>\x0a</delim><match><data>New budget created!\x0a</data></match></read>
+    <write><data>\x03\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>wPLSMB4JI\x07</data></write>
+    <read><length>40</length><match><pcre>298[0]*</pcre></match></read>
+    <write><data>\x03\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>sZfgyJNFc\x07</data></write>
+    <read><length>40</length><match><pcre>683[0]*</pcre></match></read>
+    <write><data>\x03\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>1TfYefGS3\x07</data></write>
+    <read><length>40</length><match><pcre>732[0]*</pcre></match></read>
+    <write><data>\x01\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>hey9yYmpB\x07</data></write>
+    <write><data>\x5c\x02\x00\x00</data></write>
+    <read><delim>\x0a</delim><match><data>New budget created!\x0a</data></match></read>
+    <write><data>\x02\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>1TfYefGS3\x07</data></write>
+    <write><data>\xfb\x02\x00\x00</data></write>
+    <read><delim>\x0a</delim><match><data>1TfYefGS3 is over budget!\x0a</data></match></read>
+    <write><data>\x07\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <read><length>24</length><match><pcre>.*</pcre></match></read>
+    <read><length>40</length><match><pcre>.*</pcre></match></read>
+    <read><length>24</length><match><pcre>.*</pcre></match></read>
+    <read><length>40</length><match><pcre>.*</pcre></match></read>
+    <read><length>24</length><match><pcre>.*</pcre></match></read>
+    <read><length>40</length><match><pcre>.*</pcre></match></read>
+    <read><length>24</length><match><pcre>.*</pcre></match></read>
+    <read><length>40</length><match><pcre>.*</pcre></match></read>
+    <read><length>24</length><match><pcre>.*</pcre></match></read>
+    <read><length>40</length><match><pcre>.*</pcre></match></read>
+    <read><length>24</length><match><pcre>.*</pcre></match></read>
+    <read><length>40</length><match><pcre>.*</pcre></match></read>
+    <read><length>24</length><match><pcre>.*</pcre></match></read>
+    <read><length>40</length><match><pcre>.*</pcre></match></read>
+    <read><length>40</length><match><pcre>2535[0]*</pcre></match></read>
+    <write><data>\x01\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>Md4XOqg9r\x07</data></write>
+    <write><data>0\x00\x00\x00</data></write>
+    <read><delim>\x0a</delim><match><data>New budget created!\x0a</data></match></read>
+    <write><data>\x03\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>sZfgyJNFc\x07</data></write>
+    <read><length>40</length><match><pcre>683[0]*</pcre></match></read>
+    <write><data>\x03\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>1TfYefGS3\x07</data></write>
+    <read><length>40</length><match><pcre>-31[0]*</pcre></match></read>
+    <write><data>\x01\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>16zFQe0R7\x07</data></write>
+    <write><data>\xb8\x03\x00\x00</data></write>
+    <read><delim>\x0a</delim><match><data>New budget created!\x0a</data></match></read>
+    <write><data>\x01\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>3x2JWraQ4\x07</data></write>
+    <write><data>\x25\x00\x00\x00</data></write>
+    <read><delim>\x0a</delim><match><data>New budget created!\x0a</data></match></read>
+    <write><data>\x01\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>ICFlR3bQ9\x07</data></write>
+    <write><data>\x92\x00\x00\x00</data></write>
+    <read><delim>\x0a</delim><match><data>New budget created!\x0a</data></match></read>
+    <write><data>\x02\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>sZfgyJNFc\x07</data></write>
+    <write><data>\x60\x00\x00\x00</data></write>
+    <write><data>\x02\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>16zFQe0R7\x07</data></write>
+    <write><data>\xb9\x03\x00\x00</data></write>
+    <read><delim>\x0a</delim><match><data>16zFQe0R7 is over budget!\x0a</data></match></read>
+    <write><data>\x03\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>1TfYefGS3\x07</data></write>
+    <read><length>40</length><match><pcre>-31[0]*</pcre></match></read>
+    <write><data>\x03\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>sZfgyJNFc\x07</data></write>
+    <read><length>40</length><match><pcre>587[0]*</pcre></match></read>
+    <write><data>\x03\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>3x2JWraQ4\x07</data></write>
+    <read><length>40</length><match><pcre>37[0]*</pcre></match></read>
+    <write><data>\x03\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>Y9HsCRy8Z\x07</data></write>
+    <read><length>40</length><match><pcre>-98[0]*</pcre></match></read>
+    <write><data>\x03\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>hey9yYmpB\x07</data></write>
+    <read><length>40</length><match><pcre>604[0]*</pcre></match></read>
+    <write><data>\x01\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>3UABDF7OY\x07</data></write>
+    <write><data>\xa9\x01\x00\x00</data></write>
+    <read><delim>\x0a</delim><match><data>New budget created!\x0a</data></match></read>
+    <write><data>\x02\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>3x2JWraQ4\x07</data></write>
+    <write><data>\x7b\x00\x00\x00</data></write>
+    <read><delim>\x0a</delim><match><data>3x2JWraQ4 is over budget!\x0a</data></match></read>
+    <write><data>\x03\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>wOLwjlK5t\x07</data></write>
+    <read><length>40</length><match><pcre>774[0]*</pcre></match></read>
+    <write><data>\x03\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>Md4XOqg9r\x07</data></write>
+    <read><length>40</length><match><pcre>48[0]*</pcre></match></read>
+    <write><data>\x03\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>GFTpG9Q9c\x07</data></write>
+    <read><length>40</length><match><pcre>305[0]*</pcre></match></read>
+    <write><data>\x03\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>hey9yYmpB\x07</data></write>
+    <read><length>40</length><match><pcre>604[0]*</pcre></match></read>
+    <write><data>\x01\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>BIs6KQkAc\x07</data></write>
+    <write><data>\xae\x01\x00\x00</data></write>
+    <read><delim>\x0a</delim><match><data>New budget created!\x0a</data></match></read>
+    <write><data>\x01\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>6s6dzHQss\x07</data></write>
+    <write><data>\x02\x03\x00\x00</data></write>
+    <read><delim>\x0a</delim><match><data>New budget created!\x0a</data></match></read>
+    <write><data>\x01\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>b8NzroVXG\x07</data></write>
+    <write><data>\xe5\x00\x00\x00</data></write>
+    <read><delim>\x0a</delim><match><data>New budget created!\x0a</data></match></read>
+    <write><data>\x07\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <read><length>24</length><match><pcre>.*</pcre></match></read>
+    <read><length>40</length><match><pcre>.*</pcre></match></read>
+    <read><length>24</length><match><pcre>.*</pcre></match></read>
+    <read><length>40</length><match><pcre>.*</pcre></match></read>
+    <read><length>24</length><match><pcre>.*</pcre></match></read>
+    <read><length>40</length><match><pcre>.*</pcre></match></read>
+    <read><length>24</length><match><pcre>.*</pcre></match></read>
+    <read><length>40</length><match><pcre>.*</pcre></match></read>
+    <read><length>24</length><match><pcre>.*</pcre></match></read>
+    <read><length>40</length><match><pcre>.*</pcre></match></read>
+    <read><length>24</length><match><pcre>.*</pcre></match></read>
+    <read><length>40</length><match><pcre>.*</pcre></match></read>
+    <read><length>24</length><match><pcre>.*</pcre></match></read>
+    <read><length>40</length><match><pcre>.*</pcre></match></read>
+    <read><length>24</length><match><pcre>.*</pcre></match></read>
+    <read><length>40</length><match><pcre>.*</pcre></match></read>
+    <read><length>24</length><match><pcre>.*</pcre></match></read>
+    <read><length>40</length><match><pcre>.*</pcre></match></read>
+    <read><length>24</length><match><pcre>.*</pcre></match></read>
+    <read><length>40</length><match><pcre>.*</pcre></match></read>
+    <read><length>24</length><match><pcre>.*</pcre></match></read>
+    <read><length>40</length><match><pcre>.*</pcre></match></read>
+    <read><length>24</length><match><pcre>.*</pcre></match></read>
+    <read><length>40</length><match><pcre>.*</pcre></match></read>
+    <read><length>24</length><match><pcre>.*</pcre></match></read>
+    <read><length>40</length><match><pcre>.*</pcre></match></read>
+    <read><length>24</length><match><pcre>.*</pcre></match></read>
+    <read><length>40</length><match><pcre>.*</pcre></match></read>
+    <read><length>24</length><match><pcre>.*</pcre></match></read>
+    <read><length>40</length><match><pcre>.*</pcre></match></read>
+    <read><length>40</length><match><pcre>4400[0]*</pcre></match></read>
+    <write><data>\x03\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>wOLwjlK5t\x07</data></write>
+    <read><length>40</length><match><pcre>774[0]*</pcre></match></read>
+    <write><data>\x01\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>bbvYlNYbG\x07</data></write>
+    <write><data>\xef\x01\x00\x00</data></write>
+    <read><delim>\x0a</delim><match><data>New budget created!\x0a</data></match></read>
+    <write><data>\x03\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>6s6dzHQss\x07</data></write>
+    <read><length>40</length><match><pcre>770[0]*</pcre></match></read>
+    <write><data>\x01\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>Iy1idAhxN\x07</data></write>
+    <write><data>\x7e\x02\x00\x00</data></write>
+    <read><delim>\x0a</delim><match><data>New budget created!\x0a</data></match></read>
+    <write><data>\x08\x00\x00\x00\x00\x00\x00\x00</data></write>
+</replay>
+</pov>

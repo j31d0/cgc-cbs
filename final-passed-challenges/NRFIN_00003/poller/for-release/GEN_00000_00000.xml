@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+<cbid>service</cbid>
+<replay>
+    <write><data>SUP\x0a</data></write>
+    <read><delim>\x0a</delim><match><data>here\x27re your files\x2c plebian:</data></match></read>
+    <read><delim>\x0a</delim><match><data>\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d</data></match></read>
+    <read><delim>\x0d</delim><assign> <var>legalfilename</var> <pcre>([a-z]{16})</pcre> </assign></read>
+    <write><data>LIST\x0a</data></write>
+    <read><delim>\x0d</delim><match><data>you\x27re too poor to use this verb :\x28\x0a</data></match></read>
+    <write><data>YOUUP\x0a</data></write>
+    <read><delim>\x0d</delim><match><data>Yep\x2c i\x27m up\x2c but all our basic lines are \x22clogged\x22\x0aUpgrade to FASTLANE today!\x0a</data></match></read>
+    <write><data>MOOCH BOGUSgZVOaUVYiDoqenkbpdKdqXFykDMcaPKwaRwQoFWsWZgNbFulYivuEPPZTfkezXqaudoMijxKXgXrSBKqVzXocEYJDWqFzhJWCiSwjmxncPfPochgeBJZPdumQgaxhRvyjWoxWyYIXBNbFZoNSYstEFCjAcEhwnukWpiBlCEDQyojAYPXNVtxKOQIHwkshJcqcqWkwwwdBckABpAFEXYOOJoJpGaqbVEJRcwDJYcyVtwYsRsKqZbIneoDaxbsNgIeDqyjzZAQlnVAeQMtKpxvVszcmRkqbLIdEfZgrskncApLATjRxJpzMwPLutGLFiJSBahOQMGGGAXqTlPdYraAJcjvEexjBzkwGFLCjfNBiyVXdmKmYWeLFpsTnhXbFwApPLZDKjFERpJxVilxMnOWtvuDrdgRwJCzmofYnVHqLkYAsNBaqKWbWgWphFMuzJbCOeqDwIBbXeOzBYayexQuJmAeppdNMvxYPDlXSaTGqJgAVTEGnUPXuWgFylekFqfmbvAToITLleFqCyFPPdhFMHSmYAUMlYYoOqNgZJpuzYMnIwpxRcKHjAIzBCQXkjXWezCAQptDARdgCXuWUjjYXKldeHtwCTv\x0a</data></write>
+    <read><delim>\x0d</delim><match><data>the tubes are \x22clogged\x22 right now...\x0a\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x0arequested file not found\x0a</data></match></read>
+    <write><data>YOUUP\x0a</data></write>
+    <read><delim>\x0d</delim><match><data>Yep\x2c i\x27m up\x2c but all our basic lines are \x22clogged\x22\x0aUpgrade to FASTLANE today!\x0a</data></match></read>
+    <write><data>BOGUSRtGdupsqwumvBdhWVRtCfaHAZpzXxSMFsrImDQlxykUcwHdOmwGbPrjFRUkWjgBQEQYIcZhfgUvMBTpYZkSVgTpWoHvDNelouhVhbBikYiRArvMxelvtavnUgNYvBpdtKGIXHHjRnbqcVqKfkKIbbYAZojgJkZgPXawdsDLFfvCDBxXQRMPzkejfVLrRrRcPAhlNHpySShDvWkGhOMdjJyeXQcJrYWfbidkozKYkyFEhTGRdKtxcfRrbBXOwezBKKtczQJMtqXYaATdmDjdrQqBgdzIxpkhhqVoGGvHjcYHmUHWYRVMeXYpEiBJbkMoComSqGUruJVIJjjRzqUeriLfqYvnoebSfzRjTxujMHWRMjhOdPlnjpkQKkLedLFsuurGQhHhVXMkINbmPFVNEBfhj\x0a</data></write>
+    <read><delim>\x0d</delim><match><data>invalid verb\x0a</data></match></read>
+    <write><data>MOOCH </data><var>legalfilename</var><data>\x0a</data></write>
+    <read><delim>\x0a</delim><match><data>the tubes are \x22clogged\x22 right now...</data></match></read>
+    <read><delim>\x0a</delim><match><data>\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d</data></match></read>
+    <read><delim>\x0d</delim><match><pcre>^[0-9]{16}\r$</pcre></match></read>
+    <write><data>YOUUP\x0a</data></write>
+    <read><delim>\x0d</delim><match><data>Yep\x2c i\x27m up\x2c but all our basic lines are \x22clogged\x22\x0aUpgrade to FASTLANE today!\x0a</data></match></read>
+    <write><data>MOOCH </data><var>legalfilename</var><data>\x0a</data></write>
+    <read><delim>\x0a</delim><match><data>the tubes are \x22clogged\x22 right now...</data></match></read>
+    <read><delim>\x0a</delim><match><data>\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d</data></match></read>
+    <read><delim>\x0d</delim><match><pcre>^[0-9]{16}\r$</pcre></match></read>
+    <write><data>MOOCH </data><var>legalfilename</var><data>\x0a</data></write>
+    <read><delim>\x0a</delim><match><data>the tubes are \x22clogged\x22 right now...</data></match></read>
+    <read><delim>\x0a</delim><match><data>\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d</data></match></read>
+    <read><delim>\x0d</delim><match><pcre>^[0-9]{16}\r$</pcre></match></read>
+    <write><data>STATUS\x0a</data></write>
+    <read><delim>\x0d</delim><match><data>you\x27re too poor to use this verb :\x28\x0a</data></match></read>
+    <write><data>STATUS\x0a</data></write>
+    <read><delim>\x0d</delim><match><data>you\x27re too poor to use this verb :\x28\x0a</data></match></read>
+    <write><data>MOOCH </data><var>legalfilename</var><data>\x0a</data></write>
+    <read><delim>\x0a</delim><match><data>the tubes are \x22clogged\x22 right now...</data></match></read>
+    <read><delim>\x0a</delim><match><data>\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d</data></match></read>
+    <read><delim>\x0d</delim><match><pcre>^[0-9]{16}\r$</pcre></match></read>
+    <write><data>LIST\x0a</data></write>
+    <read><delim>\x0d</delim><match><data>you\x27re too poor to use this verb :\x28\x0a</data></match></read>
+    <write><data>SMORE\x0a</data></write>
+    <read><delim>\x0d</delim><match><data>invalid request\x0a</data></match></read>
+    <write><data>SUP\x0a</data></write>
+    <read><delim>\x0a</delim><match><data>here\x27re your files\x2c plebian:</data></match></read>
+    <read><delim>\x0a</delim><match><data>\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d</data></match></read>
+    <read><delim>\x0d</delim><match><pcre>([a-z]{16}\n)+</pcre></match></read>
+    <write><data>GIMME\x0a</data></write>
+    <read><delim>\x0d</delim><match><data>you\x27re too poor to use this verb :\x28\x0a</data></match></read>
+    <write><data>LIST\x0a</data></write>
+    <read><delim>\x0d</delim><match><data>you\x27re too poor to use this verb :\x28\x0a</data></match></read>
+    <write><data>YOUUP\x0a</data></write>
+    <read><delim>\x0d</delim><match><data>Yep\x2c i\x27m up\x2c but all our basic lines are \x22clogged\x22\x0aUpgrade to FASTLANE today!\x0a</data></match></read>
+</replay>
+</pov>

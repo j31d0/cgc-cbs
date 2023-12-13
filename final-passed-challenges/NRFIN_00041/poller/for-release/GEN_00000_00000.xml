@@ -1,0 +1,81 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+<cbid>service</cbid>
+<replay>
+    <write><data>!AAAAA\x2c1\x2c2\x2c8\x2ca4jJj6\x3ckq\x3epR0jBP06?\x3cmPbVD3r\x40k\x40kh000003Q\x3e\x2c0\x2a30\x07</data></write>
+    <read><length>20</length><match><data>PARTIAL AIS MESSAGE.</data></match></read>
+    <write><data>!AAAAA\x2c2\x2c2\x2c8\x2cuE9hT?M5n\x3cc0V00000000000\x2c0\x2a70\x07</data></write>
+    <read><length>85</length><match><data>type 5\x2c144258448\x2c832172663\x2cDPFRT\x2c19\x26\x2cET2 \x5fRFZF\x5e\x2cSurveyed\x2cN\x2fA\x2c19\x2c23\x2c42\x2c164\x2c8RG.\x22\x3bFU S.</data></match></read>
+    <write><data>!AAAAA\x2c1\x2c2\x2c7\x2ce\x3dfTiS\x3dr\x3cItgS7Pp03Kl1dQL6a0?vFkhP00003AU\x2c0\x2a24\x07</data></write>
+    <read><length>20</length><match><data>PARTIAL AIS MESSAGE.</data></match></read>
+    <write><data>!AAAAA\x2c2\x2c2\x2c7\x2cNk\x40l?hU\x3eL\x3e5qlV0000000000\x2c0\x2a53\x07</data></write>
+    <read><length>105</length><match><data>type 5\x2c699877772\x2c431823055\x2c\x25\x3cX\x3cG\x2c\x5b\x5e M\x24K 5HA?26\x5eD\x2cIntegrated navigation system\x2c8\x2c25\x2c11\x2c54\x2c104\x2cZG8R\x27NGB\x3c:S.</data></match></read>
+    <write><data>!AAAAA\x2c1\x2c2\x2c6\x2c\x606mc56oD\x3bL3dK\x3di\x4003L0NF\x3dU:jwQDnUH000003eL\x2c0\x2a13\x07</data></write>
+    <read><length>20</length><match><data>PARTIAL AIS MESSAGE.</data></match></read>
+    <write><data>!AAAAA\x2c2\x2c2\x2c6\x2c9Fj\x40bBrjFg\x3e\x3c?6?\x60\x400000000\x2c0\x2a03\x07</data></write>
+    <read><length>85</length><match><data>type 5\x2c14341672\x2c921310944\x2c\x5d\x23Y.J\x2c\x5b C21\x2c\x29VW\x3cJ\x264\x2b\x2cSurveyed\x2c6\x2c23\x2c1\x2c10\x2c217\x2cHUI\x5dYKW\x27FG\x23G4H.</data></match></read>
+    <write><data>!AAAAA\x2c1\x2c1\x2c\x2c\x3cdAG:kNS4OLh903H486VtoJ0\x2c0\x2a6F\x07</data></write>
+    <read><length>103</length><match><data>type 1\x2c629714518\x2caground\x2cturning left 12\x2c39kts\x2c4620000S\x2c7080000E\x2cc:338\x2ch:311 TN\x2cmaneuver not available.</data></match></read>
+    <write><data>SGV\x2c1\x2c1\x2c\x2c8MMMMb\x60qMP\x3e\x3c\x3d1wtE\x606Jow\x40\x40\x2c0\x2a47\x07</data></write>
+    <read><length>17</length><match><data>INVALID SENTENCE.</data></match></read>
+    <write><data>!AAAAA\x2c1\x2c2\x2c2\x2cdTaco:\x60ahqn?66\x40005frGOIJt\x60f1j\x3d\x3djc1mP00H4\x2c0\x2a78\x07</data></write>
+    <read><length>20</length><match><data>PARTIAL AIS MESSAGE.</data></match></read>
+    <write><data>!AAAAA\x2c2\x2c2\x2c2\x2c3O?UiJioDEKabD\x3c400000000\x2c0\x2a59\x07</data></write>
+    <read><length>89</length><match><data>type 5\x2c613734329\x2c353690062\x2c1802\x2c\x2d7R\x3b\x3bKW\x25E0NQ\x29.UXN\x2c\x2cundefined\x2c12\x2c1\x2c0\x2c27\x2c231\x2c28\x2dX\x3b\x2aJ\x2d45JFB.</data></match></read>
+    <write><data>zOs\x2c1\x2c1\x2c\x2cPK9wsd:NC\x40L\x3bhVr?04ijD30\x2c2\x2a2E\x07</data></write>
+    <read><length>17</length><match><data>INVALID SENTENCE.</data></match></read>
+    <write><data>!AAAAA\x2c1\x2c2\x2c6\x2cd2O:4PTfQccBMU\x400054J73KT4LR\x3eCMQfb\x400002En\x2c0\x2a20\x07</data></write>
+    <read><length>20</length><match><data>PARTIAL AIS MESSAGE.</data></match></read>
+    <write><data>!AAAAA\x2c2\x2c2\x2c6\x2cIFpBUfheUqkdJ\x3bPb\x3b6000000\x2c0\x2a0D\x07</data></write>
+    <read><length>88</length><match><data>type 5\x2c542086180\x2c77022045\x2cZS\x2c\x2a\x2c\x28\x23P8\x5b\x5c \x23\x24Q2\x5b\x2cM5R\x2cLoran\x2dC\x2c10\x2c29\x2c19\x2c10\x2c220\x2cIR7XV2\x3c96ME0UE\x23.</data></match></read>
+    <write><data>!AAAAA\x2c1\x2c2\x2c4\x2cbLcOcVvWmAW\x40Hwmhh7V4RIFJFS64DP\x400000002Sf\x2c0\x2a13\x07</data></write>
+    <read><length>20</length><match><data>PARTIAL AIS MESSAGE.</data></match></read>
+    <write><data>!AAAAA\x2c2\x2c2\x2c4\x2cODJu1Qh4LJlKNQ:cQTD00000\x2c0\x2a77\x07</data></write>
+    <read><length>87</length><match><data>type 5\x2c328580956\x2c936635020\x2c:CG\x3e.F\x2c\x3c0\x24SJ3R4X0\x22\x24B\x2cChayka\x2c1\x2c27\x2c19\x2c58\x2c141\x2c\x5e 08BNMZM\x2fP\x25U02J.</data></match></read>
+    <write><data>!AAAAA\x2c1\x2c1\x2c\x2c\x3eAJ\x3c\x3ccH\x3bH\x40DVG00VLt723mpP\x2c0\x2a30\x07</data></write>
+    <read><length>102</length><match><data>type 1\x2c841816165\x2caground\x2cturning left 63\x2c43kts\x2c2700000N\x2c1260000E\x2ccourse unk\x2ch:245 TN\x2cspecial maneuver.</data></match></read>
+    <write><data>!AAAAA\x2c1\x2c2\x2c8\x2cfdLfLE94ud\x3e1kRH003Q6poMB99uoK\x4000000002en\x2c0\x2a79\x07</data></write>
+    <read><length>20</length><match><data>PARTIAL AIS MESSAGE.</data></match></read>
+    <write><data>RBYd\x2c2\x2c2\x2c8\x2cP?to3i\x3bmOjV3p\x3bO8quQG6j00\x2c0\x2a2F\x07</data></write>
+    <read><length>17</length><match><data>INVALID SENTENCE.</data></match></read>
+    <write><data>!AAAAA\x2c1\x2c1\x2c\x2c\x3ecv\x3deTMJi\x40AnU1v\x6070720OI0\x2c0\x2a0D\x07</data></write>
+    <read><length>119</length><match><data>type 1\x2c897522540\x2cunderway using sail\x2cturning left 21\x2c35kts\x2c2340000N\x2c2880000W\x2ccourse unk\x2ch:31 TN\x2cmaneuver not available.</data></match></read>
+    <write><data>!AAAAA\x2c1\x2c2\x2c4\x2caDSVbk\x3c3H0qj?3w8\x406PEvRpEKtuOS8MH000001j\x3b\x2c0\x2a25\x07</data></write>
+    <read><length>20</length><match><data>PARTIAL AIS MESSAGE.</data></match></read>
+    <write><data>!AAAAA\x2c2\x2c2\x2c4\x2c5Q8\x3d\x3cQ4pJs8p000000000000\x2c0\x2a50\x07</data></write>
+    <read><length>94</length><match><data>type 5\x2c177327446\x2c427929607\x2cNQ8\x5f9B\x2c4B\x2f4WB\x2b\x5f\x27\x2b\x3cYC\x2b\x2cCombined GPS\x2fGLONASS\x2c9\x2c2\x2cN\x2fA\x2c44\x2c36\x2cF\x26P\x22\x5cM\x5d\x24\x5c.</data></match></read>
+    <write><data>!AAAAA\x2c1\x2c1\x2c\x2c\x3dHtslq\x3bEwOe\x3em00PuH17wwW0\x2c0\x2a4E\x07</data></write>
+    <read><length>116</length><match><data>type 1\x2c723416999\x2cnot under command\x2cturning right 90\x2c76kts\x2c2460000S\x2c1080000E\x2cc:57\x2cheading unk\x2cmaneuver not available.</data></match></read>
+    <write><data>!AAAAA\x2c1\x2c1\x2c\x2cVl\x3cDVTefJR44\x408da1v:l00P\x2c2\x2a38\x07</data></write>
+    <read><length>55</length><match><data>type 4\x2c914762036\x2c9655\x2c3\x2c10\x2c4\x2c8\x2c8\x2c1140000N\x2c3840000W\x2cGPS.</data></match></read>
+    <write><data>!AAAAA\x2c1\x2c1\x2c\x2cTH:HAietM:EAwKH\x401tLth10\x2c2\x2a5B\x07</data></write>
+    <read><length>62</length><match><data>type 4\x2c587542670\x2c3518\x2c3\x2c20\x2c20\x2c42\x2c35\x2c4800000S\x2c7440000W\x2cGLONASS.</data></match></read>
+    <write><data>!AAAAA\x2c1\x2c1\x2c\x2c\x3er5iBT\x3c?g\x40VLt00BCp727w\x600\x2c0\x2a75\x07</data></write>
+    <read><length>123</length><match><data>type 1\x2c927130260\x2cunderway using sail\x2cturning right 97\x2c99kts\x2c5040000N\x2c600000E\x2ccourse unk\x2cheading unk\x2cmaneuver not available.</data></match></read>
+    <write><data>Uauw\x2c1\x2c1\x2c\x2cTjK5?j\x40a75Imwpc\x4004dBh40\x2c2\x2a27\x07</data></write>
+    <read><length>17</length><match><data>INVALID SENTENCE.</data></match></read>
+    <write><data>!AAAAA\x2c1\x2c1\x2c\x2cTNgIm2JuInV\x3dwG\x40U01\x3cqp1P\x2c2\x2a3F\x07</data></write>
+    <read><length>75</length><match><data>type 4\x2c601338792\x2c4958\x2c11\x2c7\x2c13\x2c12\x2c27\x2c5340000S\x2c2520000E\x2cCombined GPS\x2fGLONASS.</data></match></read>
+    <write><data>!AAAAA\x2c1\x2c2\x2c8\x2cdl?u4DTphPkKwaH001lC3TS?t6bneDP0000003P2\x2c0\x2a4D\x07</data></write>
+    <read><length>20</length><match><data>PARTIAL AIS MESSAGE.</data></match></read>
+    <write><data>!AAAAA\x2c2\x2c2\x2c8\x2c2WgqhqqwBfnq3ODI4OV00000\x2c0\x2a5E\x07</data></write>
+    <read><length>90</length><match><data>type 5\x2c646445602\x2c614228230\x2c\x5b\x5f\x3dK\x2cN\x22X\x5c\x24Y? 5V5\x2a\x24\x2cSurveyed\x2cN\x2fA\x2cN\x2fA\x2c16\x2c20\x2c247\x2c\x3c8\x5c\x3c?\x29W\x5b\x5c!\x2f\x2aL\x22O3.</data></match></read>
+    <write><data>!AAAAA\x2c1\x2c1\x2c\x2c8gENJi3QlOpc\x4001m\x3c0721s3P\x2c0\x2a7C\x07</data></write>
+    <read><length>111</length><match><data>type 1\x2c99269846\x2cnot under command\x2cturning right 28\x2c23kts\x2c960000S\x2c3840000E\x2ccourse unk\x2ch:123 TN\x2cspecial maneuver.</data></match></read>
+    <write><data>!AAAAA\x2c1\x2c1\x2c\x2c87bJcIwMS\x40I\x60\x6001O\x3dh724p:P\x2c0\x2a00\x07</data></write>
+    <read><length>119</length><match><data>type 1\x2c16069979\x2crestricted maneuverability\x2cturning left 5\x2c71kts\x2c3360000N\x2c3120000E\x2ccourse unk\x2ch:312 TN\x2cspecial maneuver.</data></match></read>
+    <write><data>PsGR\x2c1\x2c1\x2c\x2c\x3dfCfHqLKkOg411uK\x3d8727w:0\x2c0\x2a1E\x07</data></write>
+    <read><length>17</length><match><data>INVALID SENTENCE.</data></match></read>
+    <write><data>!AAAAA\x2c1\x2c2\x2c6\x2ceVOp\x3dKbvKNG6O1P007\x60l\x3dD\x3cV0lIm:SJ00000019a\x2c0\x2a46\x07</data></write>
+    <read><length>20</length><match><data>PARTIAL AIS MESSAGE.</data></match></read>
+    <write><data>!AAAAA\x2c2\x2c2\x2c6\x2cP\x3bo5db9fCs:uEmBVt\x3c\x3c00000\x2c0\x2a04\x07</data></write>
+    <read><length>86</length><match><data>type 5\x2c751825003\x2c492779250\x2c838L\x2c\x3dF!\x2a!\x240F\x23N\x29T\x5bP\x2cGLONASS\x2c4\x2c26\x2c12\x2c1\x2c123\x2c\x226UD7I\x3d\x25\x5e\x2a:\x29S\x5eFF.</data></match></read>
+    <write><data>!AAAAA\x2c1\x2c1\x2c\x2c\x3cK8mbA4:BwJru013gt0o2J80\x2c0\x2a24\x07</data></write>
+    <read><length>113</length><match><data>type 1\x2c593783634\x2cnot under command\x2cturning right 33\x2c29kts\x2c4860000S\x2c2220000E\x2cc:44\x2ch:154 TN\x2cmaneuver not available.</data></match></read>
+    <write><data>!AAAAA\x2c1\x2c1\x2c\x2cSQBJS2\x3efP3c4wiFP1tE\x60030\x2c2\x2a03\x07</data></write>
+    <read><length>82</length><match><data>type 4\x2c472462616\x2c4567\x2c4\x2cN\x2fA\x2c7\x2c22\x2c9\x2c1920000S\x2c7680000W\x2cIntegrated navigation system.</data></match></read>
+    <write><data>SDmhF\x2c1\x2c1\x2c\x2cVdEStD\x40eAWb\x3cPURF03OHp30\x2c2\x2a40\x07</data></write>
+    <read><length>17</length><match><data>INVALID SENTENCE.</data></match></read>
+</replay>
+</pov>

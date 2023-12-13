@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+<cbid>service</cbid>
+<replay>
+    <read><delim>\x0a</delim><match><data>Welcome to the yolodex.</data></match></read>
+    <write><data>\x40\x0a</data></write>
+    <read><delim>: </delim><match><data>First</data></match></read>
+    <write><data>Betsy\x0a</data></write>
+    <read><delim>: </delim><match><data>Last</data></match></read>
+    <write><data>Hayes\x0a</data></write>
+    <read><delim>: </delim><match><data>Phone Number</data></match></read>
+    <write><data>\x28132\x29768\x2d5927\x0a</data></write>
+    <read><delim>: </delim><match><data>Office Number</data></match></read>
+    <write><data>4115\x0a</data></write>
+    <read><delim>: </delim><match><data>Gender</data></match></read>
+    <write><data>F\x0a</data></write>
+    <read><delim>: </delim><match><data>Hacker</data></match></read>
+    <write><data>n\x0a</data></write>
+    <write><data>\x40\x0a</data></write>
+    <read><delim>: </delim><match><data>First</data></match></read>
+    <write><data>Lacey\x0a</data></write>
+    <read><delim>: </delim><match><data>Last</data></match></read>
+    <write><data>Rivera\x0a</data></write>
+    <read><delim>: </delim><match><data>Phone Number</data></match></read>
+    <write><data>kic3lsmkmb9k</data></write>
+    <write><data>\x0a</data></write>
+    <read><delim>: </delim><match><data>Office Number</data></match></read>
+    <write><data>1767\x0a</data></write>
+    <read><delim>: </delim><match><data>Gender</data></match></read>
+    <write><data>F\x0a</data></write>
+    <read><delim>: </delim><match><data>Hacker</data></match></read>
+    <write><data>y\x0a</data></write>
+</replay>
+</pov>
