@@ -40,11 +40,11 @@ void setup_sandbox(void) {
 
     rlim.rlim_cur = 8 * 1024 * 1024;
     rlim.rlim_max = rlim.rlim_cur;
-    VERIFY(setrlimit, RLIMIT_STACK, &rlim);
+    // VERIFY(setrlimit, RLIMIT_STACK, &rlim);
 
     rlim.rlim_cur = 1024 * 1024 * 1024;
     rlim.rlim_max = rlim.rlim_cur;
-    VERIFY(setrlimit, RLIMIT_DATA, &rlim);
+    // VERIFY(setrlimit, RLIMIT_DATA, &rlim);
 }
 
 void set_cb_resources(char *wrapper) {
@@ -52,7 +52,7 @@ void set_cb_resources(char *wrapper) {
     rlim.rlim_cur = 0;
     rlim.rlim_max = 0;
 
-    VERIFY(prctl, PR_SET_DUMPABLE, 1, 0, 0, 0);
+    // VERIFY(prctl, PR_SET_DUMPABLE, 1, 0, 0, 0);
 
     if (!wrapper)
         VERIFY(setrlimit, RLIMIT_NOFILE, &rlim);
@@ -61,5 +61,5 @@ void set_cb_resources(char *wrapper) {
 void set_core_size(int size) {
     struct rlimit rlim = {size, size};
 
-    VERIFY(setrlimit, RLIMIT_CORE, &rlim);
+    // VERIFY(setrlimit, RLIMIT_CORE, &rlim);
 }

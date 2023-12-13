@@ -56,6 +56,7 @@ class RegexMatch(object):
             group = 0
 
         self.regex = regex
+        self.pattern = self.regex.pattern
         self.group = group
 
     def match(self, data):

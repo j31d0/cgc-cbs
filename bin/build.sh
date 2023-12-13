@@ -40,8 +40,9 @@ for src in src/*.c src/*.cc lib/*.c lib/*.cc; do
     ${CC_CFLAGS} ${DMACRO} -Iinclude -Ilib -I$LIBCGC -c -o "obj/`basename "$src" | sed 's,[.][^.]*$,.o,'`" "$src"
 done
 
-${CC_CFLAGS} ${DMACRO} -c -o obj/libcgc.o "$LIBCGC/libcgc.c"
+#${CC_CFLAGS} ${DMACRO} -c -o obj/libcgc.o "$LIBCGC/libcgc.c"
 ${CC_CFLAGS} ${DMACRO} -c -o obj/libcgc_lo.o "$LIBCGC/libcgc_lo.S"
+${CC_CFLAGS} -c -o obj/maths.o "$LIBCGC/maths.s"
 
 # NOTE: Padding is no longer needed for ARM CGC tests.
 #case "$1" in
@@ -49,4 +50,4 @@ ${CC_CFLAGS} ${DMACRO} -c -o obj/libcgc_lo.o "$LIBCGC/libcgc_lo.S"
 #    #NOTYET *) ${CC_CFLAGS} -c -o obj/maths.o "$LIBCGC/maths.s" ;;
 #esac
 
-${CC_CFLAGS} -nostartfiles -o "$TARGET" obj/*.o -lm $LIBSTDCPP
+${CC_CFLAGS} -nostartfiles -o "$TARGET" obj/*.o $LIBCGC/libcgc.so

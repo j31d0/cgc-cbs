@@ -62,10 +62,10 @@ struct cntr_desc {
 	const char *name;
 	unsigned long long *val;
 } cntr_desc[] = {
-	{ PERF_TYPE_SOFTWARE, PERF_COUNT_SW_CPU_CLOCK,
-	  "sw-cpu-clock", &sts_cpu_clock },
-	{ PERF_TYPE_SOFTWARE, PERF_COUNT_SW_TASK_CLOCK,
-	  "sw-task-clock", &sts_task_clock },
+	// { PERF_TYPE_SOFTWARE, PERF_COUNT_SW_CPU_CLOCK,
+	//  "sw-cpu-clock", &sts_cpu_clock },
+	// { PERF_TYPE_SOFTWARE, PERF_COUNT_SW_TASK_CLOCK,
+	//  "sw-task-clock", &sts_task_clock },
 };
 #define NCNTRS_PER_PROC (sizeof(cntr_desc) / sizeof(cntr_desc[0]))
 
@@ -151,7 +151,7 @@ void sigchld(const int sig) {
             sts_utime.tv_usec -= 1000000;
         }
         sts_nkids++;
-        read_counters(pid);
+        //read_counters(pid);
 
         if (num_children)
             num_children--;
@@ -339,28 +339,28 @@ void zero_perf_stats(int nprocs) {
 }
 
 void setup_counters(int procno, pid_t pid) {
-    int grp = -1, i, fd;
-    struct cntr *cntr = &cntrs[procno * NCNTRS_PER_PROC];
+    //int grp = -1, i, fd;
+    //struct cntr *cntr = &cntrs[procno * NCNTRS_PER_PROC];
 
-    for (i = 0; i < NCNTRS_PER_PROC; i++) { 
-        fd = make_counter(cntr + i, &cntr_desc[i], pid, grp); 
-        if (grp == -1) 
-            grp = fd; 
-    }
+    //for (i = 0; i < NCNTRS_PER_PROC; i++) { 
+    //    fd = make_counter(cntr + i, &cntr_desc[i], pid, grp); 
+    //    if (grp == -1) 
+    //        grp = fd; 
+    //}
 }
 
 void read_counters(pid_t pid) {
-    int i;
+    //int i;
 
-    for (i = 0; i < ncntrs; i++) {
-        unsigned long long ct;
+    //for (i = 0; i < ncntrs; i++) {
+    //    unsigned long long ct;
 
-        if (cntrs[i].pid != pid)
-            continue;
-        if (read(cntrs[i].fd, &ct, sizeof(ct)) != sizeof(ct))
-            continue;
-        *cntrs[i].desc->val += ct;
-    }
+    //    if (cntrs[i].pid != pid)
+    //        continue;
+    //    if (read(cntrs[i].fd, &ct, sizeof(ct)) != sizeof(ct))
+    //        continue;
+    //    *cntrs[i].desc->val += ct;
+    //}
 }
 
 /* Local variables: */
