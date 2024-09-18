@@ -50,4 +50,4 @@ ${CC_CFLAGS} -c -o obj/maths.o "$LIBCGC/maths.s"
 #    #NOTYET *) ${CC_CFLAGS} -c -o obj/maths.o "$LIBCGC/maths.s" ;;
 #esac
 
-${CC_CFLAGS} -nostartfiles -o "$TARGET" obj/*.o $LIBCGC/libcgc.so
+${CC_CFLAGS} -nostartfiles -fno-pie -no-pie -o "$TARGET" obj/*.o $LIBCGC/libcgc.so
