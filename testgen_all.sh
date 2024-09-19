@@ -10,14 +10,19 @@ if [ -d "$base_dir" ]; then
             # Echo the directory name
 	    pushd $entry > /dev/null
 	    VNAME="$(basename $entry)"
-	    $SCRIPTDIR/bin/build.sh $VNAME clang -O0 -Wl,--allow-multiple-definition 1>/dev/null 2>/dev/null
+	    if [ -d "poller/for-release" ]; then
+		    pushd poller/for-release > /dev/null
+		    PYTHONPATH=$PYTHONPATH:$SCRIPTDIR/tools/cb-testing/lib $SCRIPTDIR/tools/poll-generator/generate-polls machine.py state-graph.yaml . --count 50 1>/dev/null 2>/dev/null
+		    popd > /dev/null
+	    fi
 	    popd > /dev/null
-            if [ ! -f "$entry/$VNAME" ]; then
+            if [ ! -f "$entry/poller/for-release/GEN_00000_00049.xml" ]; then
                     rm -r $entry
-		    echo "$VNAME: compile failed"
+		    echo "$VNAME: testgen failed"
             fi
         fi
     done
 else
     echo "Directory '$base_dir' not found."
 fi
+

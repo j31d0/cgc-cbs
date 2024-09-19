@@ -10,14 +10,12 @@ if [ -d "$base_dir" ]; then
             # Echo the directory name
 	    pushd $entry > /dev/null
 	    VNAME="$(basename $entry)"
-	    $SCRIPTDIR/bin/build.sh $VNAME clang -O0 -Wl,--allow-multiple-definition 1>/dev/null 2>/dev/null
+	    /home/user/FIBLE/_build/default/ocaml-core/src/tool/wrapper.exe $VNAME 
+	    /home/user/FIBLE/_build/default/ocaml-core/src/tool/decompiler.exe $VNAME.elf_ext
 	    popd > /dev/null
-            if [ ! -f "$entry/$VNAME" ]; then
-                    rm -r $entry
-		    echo "$VNAME: compile failed"
-            fi
         fi
     done
 else
     echo "Directory '$base_dir' not found."
 fi
+
